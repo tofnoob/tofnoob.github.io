@@ -14,3 +14,4 @@ This is what you need to pull for the limited weapons, so use them wisely! You c
 - twitter drops
 - tof codes
 - Mirroria gachapon machines
+- Claire's dream machine
