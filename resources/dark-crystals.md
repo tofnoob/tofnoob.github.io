@@ -14,6 +14,7 @@ Commonly referred to as DC, this is the main gacha currency which is the equival
 - [Daily login](#daily-login)
 - [Themed event](#themed-event)
 - Mirroria gachapon machines
+  Weekly activity rewards
 - Crew honour points reward
 - Crew weekly rewards
 - Crew weekly rewards box
