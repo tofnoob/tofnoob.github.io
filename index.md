@@ -3,14 +3,14 @@ title: Home
 layout: home
 nav_order: 1
 ---
-COMING SOON...
+[Site under construction...]
+
+# Welcome
+Welcome to my guide page for Tower of Fantasy!
+
+If you are completely new to the game then [start here]().
+
+# Purpose
+This site is intended as a quick guide and reference to all things Tower of Fantasy, to save time going through long articles or browsing endlessly on reddit and discord. I'll link to more in-depth content where possible.
+
 ----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
