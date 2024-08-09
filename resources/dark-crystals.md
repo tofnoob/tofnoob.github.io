@@ -5,7 +5,7 @@ parent: Resources
 nav_order: 1
 ---
 
-# Dark Crystals (DC)
+# Dark Crystals
 Commonly referred to as DC, this is the main gacha currency which is the equivalent to Primogems in Genhin Impact. Use it to obtain limited weapons by converting it to red nucleus, as well as many other useful items that be found in the shop.
 
 # How to obtain
@@ -29,7 +29,7 @@ Once in a while you can find Twitter/X competitions to win a certain amount of D
 
 These competitions can be a bit harder to find, but looking on the ToF Twitter, ToF Discord and ToF subreddit helps.
 
-## Twitch drops
+## Twitch Drops
 Major game releases often come with Twitch rewards if you watch participating streams for 30 minutes per day.
 
 ## Daily Login
