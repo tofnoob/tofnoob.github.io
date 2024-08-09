@@ -6,15 +6,16 @@ nav_order: 1
 ---
 
 # Dark Crystals (DC)
-This is the main gacha currency, which is the equivalent to primogems in Genhin Impact. Use it to obtain limited weapons by converting it to red nucleus, as well as many other useful items that be found in the shop.
+Commonly referred to as DC, this is the main gacha currency which is the equivalent to Primogems in Genhin Impact. Use it to obtain limited weapons by converting it to red nucleus, as well as many other useful items that be found in the shop.
 
 # How to obtain
-- [ToF codes](##tof-codes)
-- [Twitch drops](##twitch-drops)
-- [Daily login](##daily-login)
-- [Themed event](##themed-event)
+- [ToF codes](#tof-codes)
+- [ToF competition](#tof-competition)
+- [Twitch drops](#twitch-drops)
+- [Daily login](#daily-login)
+- [Themed event](#themed-event)
 
-## ToF codes
+## ToF Codes
 Codes often get released via the ToF discord channel "tof-codes". To redeem the code go to the `Rewards` menu, click on the `Rewards` tab then select `Exchange`. Here you can enter the code and you'll get the gift in your mailbox after a couple of minutes (this takes quite a bit longer than Hoyoverse games, so be patient).
 
 [picture here]
@@ -22,6 +23,11 @@ Codes often get released via the ToF discord channel "tof-codes". To redeem the 
 You can also see codes posted by users on www.reddit.com/r/toweroffantasy
 
 The ToF discord can be found at:
+
+## ToF Competition
+Once in a while you can find Twitter/X competitions to win a certain amount of DC by sharing and retweeting posts. A recent competition in 2024 had the first prize at 40,000 DC!!
+
+These competitions can be a bit harder to find, but looking on the ToF Twitter, ToF Discord and ToF subreddit helps.
 
 ## Twitch drops
 Major game releases often come with Twitch rewards if you watch participating streams for 30 minutes per day.
