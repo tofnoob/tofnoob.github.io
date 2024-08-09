@@ -15,10 +15,10 @@ For new players I'd recommend to:
 - choose **one** main weapon element that you like and stick to it (flame, frost, physical, volt)
 - remember to collect weekly rewards from the `commissionary` and `crew` menu
 - avoid being a dedicated healer early on, as you must have enough damage to clear some solo content
-- only farm seriously for gear when you can get gold gear
 - spend gold and black nucleus as you wish, save red nucleus and dark crystals for new weapons when you're decently levelled and geared
 - save **_at least 120 pulls_** for when you decide to pull for a limited weapon to get one copy (this gets reduced to around 110 later) [more detail]
 - save purple and blue password keys that open chests from the first World (Aesperia) and use in the second World (Vera) to get Mira currency to open Mirroria gachapon machines
+- only farm seriously for gear when you can get gold gear
 - try out weapons from the training menu to see what you like before pulling for one
 
 Remember that it will take some time to get strong in the game so don't worry about gear, weapons and combat score (CS) too much at first. Just use what you get and use what's fun. And if you really want to get strong faster then your only options are to grind more or swipe that credit card.
