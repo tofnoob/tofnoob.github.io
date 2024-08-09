@@ -3,3 +3,8 @@ description: A quick beginner's guide to Tower of Fantasy
 theme: just-the-docs
 
 url: https://tofnoob.github.io
+nav:
+  # - title: "Home"
+  #   url: "/"
+  - title: "Resources"
+    url: "/resources/"
