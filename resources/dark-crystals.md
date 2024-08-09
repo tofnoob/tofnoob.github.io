@@ -14,6 +14,9 @@ Commonly referred to as DC, this is the main gacha currency which is the equival
 - [Daily login](#daily-login)
 - [Themed event](#themed-event)
 - Mirroria gachapon machines
+- Crew honour points reward
+- Crew weekly rewards
+- Crew weekly rewards box
 
 ## ToF Codes
 Codes often get released via the ToF discord channel "tof-codes". To redeem the code go to the `Rewards` menu, click on the `Rewards` tab then select `Exchange`. Here you can enter the code and you'll get the gift in your mailbox after a couple of minutes (this takes quite a bit longer than Hoyoverse games, so be patient).
