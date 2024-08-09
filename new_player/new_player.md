@@ -21,7 +21,7 @@ For new players I'd recommend to:
 - save purple and blue password keys that open chests from the first World (Aesperia) and use in the second World (Vera) to get Mira currency to open Mirroria gachapon machines
 - try out weapons from the training menu to see what you like before pulling for one
 
-Remember that it will take some time to get strong in the game so don't worry about gear, weapons and combat score (CS) too much at first. Just use what you get and what's fun. And if you really want to get strong faster then your only options are to grind more or swipe that credit card.
+Remember that it will take some time to get strong in the game so don't worry about gear, weapons and combat score (CS) too much at first. Just use what you get and use what's fun. And if you really want to get strong faster then your only options are to grind more or swipe that credit card.
 
 ## Platform
 The first thing to decide is which platform to play on. Players on PC and mobile (Android & iOS) play together, whilst those on Playstation are on their own.
