@@ -9,11 +9,17 @@ nav_order: 2
 There are a number of things to do when getting started with Tower of Fantasy and it is a bit more complicated than typical Hoyoverse games to start with, but becomes second nature over time.
 
 For new players I'd recommend to:
-- get through most of the main story
-- get help from others to complete content that can be done in groups
-- choose **one** weapon element that you like and stick to it
+- focus on the main story (use the **_skip_** button if you want)
+- join an active crew
+- get help from others to complete content that can be done in groups, like raids or bosses
+- choose **one** main weapon element that you like and stick to it (flame, frost, physical, volt)
 - avoid being a dedicated healer early on, as you must have enough damage to clear some solo content
 - not worry about gear and weapons too much at first, as it will take some time to get strong - just use what you get
+- spend gold and black nucleus as you wish, save red nucleus and dark crystals for new weapons when you're decently levelled and geared
+- save **_at least 120 pulls_** for when you decide to pull for a limited weapon to get one copy (this gets reduced to around 110 later) [more detail]
+- save purple and blue password keys that open chests from the first World (Aesperia) and use in the second World (Vera) to get Mira currency to open Mirroria gachapon machines
+- only farm seriously for gear when you can get gold gear
+- remember to collect weekly rewards from the `commissionary` and `crew` menu
 
 ## Platform
 The first thing to decide is which platform to play on. Players on PC and mobile (Android & iOS) play together, whilst those on Playstation are on their own.
@@ -41,6 +47,8 @@ The Worlds in order of appearance are:
 2. Vera
 3. Domain 9
 4. Network
+
+## World dimension level
 
 ## User Interface
 It may sound silly to have a guide on the UI, but the menus are really something special in ToF that will confuse newcomers.
