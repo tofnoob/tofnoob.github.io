@@ -8,6 +8,13 @@ nav_order: 2
 # New player
 There are a number of things to do when getting started with Tower of Fantasy and it is a bit more complicated than typical Hoyoverse games to start with, but becomes second nature over time.
 
+For new players I'd recommend to:
+- get through most of the main story
+- get help from others to complete content that can be done in groups
+- choose **one** weapon element that you like and stick to it
+- avoid being a dedicated healer early on, as you must have enough damage to clear some solo content
+- not worry about gear and weapons too much at first, as it will take some time to get strong - just use what you get
+
 ## Platform
 The first thing to decide is which platform to play on. Players on PC and mobile (Android & iOS) play together, whilst those on Playstation are on their own.
 
@@ -35,9 +42,16 @@ The Worlds in order of appearance are:
 3. Domain 9
 4. Network
 
-## Mentor
-There is a mentor system where someone can guide new players and both get rewards.
+## User Interface
+It may sound silly to have a guide on the UI, but the menus are really something special in ToF that will confuse newcomers.
+
+See a rundown of what to lookout for here: ...
 
 ## Weapons
 
 ## Gear
+
+## Crew
+
+## Mentor
+There is a mentor system where someone can guide new players and both get rewards.
