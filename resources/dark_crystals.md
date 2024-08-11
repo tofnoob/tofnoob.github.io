@@ -63,7 +63,7 @@ playstation: https://tof.perfectworld.com/net/twitch230806/index.html
 ## Daily Login
 Similar to Hoyoverse games, there is actually a daily login where you get coins that can be exchanged for DC and other items.
 
-Daily login link: <coming soon>
+Daily login link: https://pass.levelinfinite.com/rewards?points=%2Fpoints%2F
 
 ## Themed Event
 This appears once in a while, usually on major releases. It will have it's own `Themed Event` tab in the special event menu and will say `Journey of friendship`. Note that the `Go` button to actually enter the page often takes a few seconds to load.
