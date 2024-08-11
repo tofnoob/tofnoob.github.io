@@ -6,7 +6,9 @@ nav_order: 2
 ---
 
 # New player
-There are a number of things to do when getting started with Tower of Fantasy and it is a bit more complicated than typical Hoyoverse games to start with, but becomes second nature over time.
+Welcome to the start of your journey in Tower of Fantasy! It's an open world MMORPG so is a bit more complicated than Hoyoverse games, but you'll soon get used to it and understand everything with the help of this guide and the community.
+
+If you want to quickly get a video overview then I'd recommend watching Touch Me Not's 2024 guide on YouTube [here](https://www.youtube.com/watch?v=o2F5f_q9BVw).
 
 For new players I'd recommend to:
 - focus on the main story (use the **_skip_** button if you want)
@@ -51,6 +53,7 @@ The Worlds in order of appearance are:
 4. Network
 
 ## World dimension level
+Coming soon...
 
 ## User Interface
 It may sound silly to have a guide on the UI, but the menus are really something special in ToF that will confuse newcomers.
@@ -58,12 +61,16 @@ It may sound silly to have a guide on the UI, but the menus are really something
 See a rundown of what to lookout for here: ...
 
 ## Weapons
+Coming soon...
 
 ## Gear
+Coming soon...
 
 ## Crew
+Coming soon...
 
 ## Mentor
+Coming soon...
 There is a mentor system where someone can guide new players and both get rewards.
 
 ## Commissionary
