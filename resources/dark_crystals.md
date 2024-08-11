@@ -48,7 +48,17 @@ Once in a while you can find Twitter/X competitions to win a certain amount of D
 These competitions can be a bit harder to find, but looking on the ToF Twitter, ToF Discord and ToF subreddit helps.
 
 ## Twitch Drops
-Major game releases often come with Twitch rewards if you watch participating streams for 30 minutes per day.
+Major game releases often come with Twitch rewards if you watch participating streams for 30 minutes per day. Create a free Twitch account and watch the stream for the target time each day to get free rewards such as DC, red nucleus and red vouchers! Here's a list of participating steams when drops are happening https://www.twitch.tv/directory/category/tower-of-fantasy?filter=drops
+
+You will see a Twitch notification when you are eligible to claim the reward, and you must press the `claim` button on that specific drop on Twitch. There will be a progress bar of how much you've watched in various places, but the best place to check is here https://www.twitch.tv/drops/inventory
+
+Note that I'd recommend doing this on a PC, as doing this on mobile app seems to be fairly unreliable for me (Android). You will probably have to watch the stream a lot longer than you expect, and keep checking your progress on the inventory site given above.
+
+Once you claim the Twitch reward then use the relevant link below to redeem and send it to your inbox
+
+pc/mobile: https://www.toweroffantasy-global.com/act/a20220711twitchdrops/index.html
+
+playstation: https://tof.perfectworld.com/net/twitch230806/index.html
 
 ## Daily Login
 Similar to Hoyoverse games, there is actually a daily login where you get coins that can be exchanged for DC and other items.
