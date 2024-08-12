@@ -45,7 +45,7 @@ The ToF discord can be found at:
 ## ToF Competition
 Once in a while you can find Twitter/X competitions to win a certain amount of DC by sharing and retweeting posts. A recent competition in 2024 had the first prize at **42,000** DC!!
 
-These competitions usually appear in the Discord channel `discord-event-news`, which sometimes get re-posted on the ToF subreddit.
+These competitions usually appear in the ToF Discord channel `discord-event-news`, which sometimes get re-posted on the ToF subreddit.
 
 ![](images/42kdc.png)
 
