@@ -47,6 +47,8 @@ Once in a while you can find Twitter/X competitions to win a certain amount of D
 
 These competitions usually appear in the Discord channel `discord-event-news`, which sometimes get re-posted on the ToF subreddit.
 
+![](42kdc.png)
+
 ## Twitch Drops
 Major game releases often come with Twitch rewards if you watch participating streams for 30 minutes per day. Create a free Twitch account and watch the stream for the target time each day to get free rewards such as DC, red nucleus and red vouchers! Here's a list of participating steams when drops are happening https://www.twitch.tv/directory/category/tower-of-fantasy?filter=drops
 
