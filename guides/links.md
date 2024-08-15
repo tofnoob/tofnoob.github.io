@@ -13,6 +13,11 @@ parent: Guides
 Touch Me Not |
 | Data repeater guide | [here](files/DataRepeaterGuide.pdf) | | Kata - [original post](https://www.reddit.com/r/TowerofFantasy/comments/1dr0uke/data_repeater_aka_blocker_guide/)|
 | 4.0 Gear Enhancement optimization | [here](https://www.reddit.com/r/TowerofFantasy/comments/1d9df0m/psa_optimizing_gear_enhancements_in_40/) | | Mist_ori |
+| Titan gear explained | [here](https://www.youtube.com/watch?v=Yeoe1ue0qdY) | The titan gear material icons show in the video were updated in a later patch, but the idea is exactly the same | Redefine Gamer |
+| ATK% vs DMG% | [here](https://www.youtube.com/watch?v=OxUgHf-qB44) | Still relevant | Maygi |
+| DEP calculator | [here](https://docs.google.com/spreadsheets/d/1ZrJokNh_0AF_9welc7Etz6K8jlpzi5bXpiWz-mQZa78/edit?gid=1758431159#gid=1758431159) | Linked from the ATK% vs DMG% video above - unsure how out of date it is | Maygi |
+| Min maxing gear in 2.0 | [here](https://www.youtube.com/watch?v=hIJPyH-g2sc) | Still relevant | Gateoo |
+| Relic guide | [here](https://www.youtube.com/watch?v=AOc09cf9FIQ) | Quite out of date, but gives a good explanation on relics. These days use relics like Couant 2, Bubble gun, Thelasic heart and Overdrive Shot. | Gateoo |
 
 ## Where to find more guides
 
