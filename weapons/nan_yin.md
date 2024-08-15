@@ -9,6 +9,13 @@ Nan Yin is the third Altered character that first appeared in version 3. Her wea
 
 ![](images/nan_yin_profile.jpg)
 
+## Video guides
+
+Maygi part 1 - https://www.youtube.com/watch?v=gbeR_Szec5U
+Maygi part 2 - https://www.youtube.com/watch?v=X2EBoDxU3PE
+Redefine Gamer overview - https://www.youtube.com/watch?v=4bUmdVTsKLs
+Redefine Gamer rotations - https://www.youtube.com/watch?v=5E7uofDreXE
+
 ## Tip 1
 Always remember to use Nan Yin's special **Inhabit** skill on your main DPS weapon. From the Weapons menu select any weapon that isn't Nan Yin and you'll see the Inhabit option.
 
