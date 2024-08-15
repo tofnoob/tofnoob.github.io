@@ -36,7 +36,11 @@ The second important area is about the crew missions where everyone in the crew 
 
 ![](images/crew_info.jpg)
 
-When you build up enough points then you can click where the red circles are to claim the rewards which are Gold, Crew merits and 50 DC. This refreshes weekly on Monday morning and there's also a limit of how many crew missions you can do.
+When your crew builds up enough points then you can click where the red circles are to claim the rewards which are Gold, Crew merits and 50 DC. This refreshes weekly on Monday morning and there's also a limit of how many crew missions you can do. So the more work you and your crewmates do the faster you'll get the rewards!
+
+## Donate
+
+Every day there will be a random item listed on the `Daily` tab that you can donate to the crew to earn more honour points and will help with getting the above rewards. There is also a `Get Help` button that when pressed will post a message in the crew chat for someone to donate the item to you.
 
 ## Weekly rewards
 
