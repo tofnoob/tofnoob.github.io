@@ -43,3 +43,7 @@ You may still be able to find useful content on some of the inactive channels:
 - [Maygi](https://www.youtube.com/@Maygi)
 - [Michuzak](https://www.youtube.com/@Michuzak)
 - [Redefine Gamer](https://www.youtube.com/@RedefineGamer)
+
+## ToF Discord channel
+
+Content creators not listed above also post #content-creator-video channel.

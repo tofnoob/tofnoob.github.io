@@ -11,7 +11,7 @@ Welcome to the start of your journey in Tower of Fantasy! It's an open world MMO
 If you want to quickly get a video overview then I'd recommend watching Touch Me Not's 2024 guide on YouTube [here](https://www.youtube.com/watch?v=o2F5f_q9BVw).
 
 For new players I'd recommend to:
-- focus on the main story (use the **_skip_** button if you want)
+- focus on the main story (use the **_skip_** button if you want) and do some exploration of the Worlds
 - join an active crew
 - get help from others to complete content that can be done in groups, like raids or bosses
 - choose **one** main weapon element that you like and stick to it (flame, frost, physical, volt)
