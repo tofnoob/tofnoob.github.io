@@ -9,7 +9,7 @@ Nola is the newest Altered character (the fourth one) who first appeared in vers
 
 Occasionally, you might encounter Nola being called "Nora" online. I believe that this is due to a common translation quirk between Asian languages and English, where the sounds of "r" and "l" aren't always clearly differentiated. As a result, these two letters often get mixed up. Roslyn also had a similar issue being called "Loslyn".
 
-![](images/nola.jpg)
+![](images/nola_profile.jpg)
 
 ## Video guides
 
