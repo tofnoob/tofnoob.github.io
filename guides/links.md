@@ -25,6 +25,7 @@ parent: Guides
 - Some YouTuber's still cover ToF (see below)
 
 ## Active YouTube channels
+Also check the #content-creator-video channel on the offial ToF discord, but here's some of the main ones I've come across:
 
 - [gateoo](https://www.youtube.com/@gateoo)
 - [BiBiSum](https://www.youtube.com/@BiBiSum)
