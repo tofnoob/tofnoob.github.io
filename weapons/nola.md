@@ -24,4 +24,4 @@ Then select the Cog icon here pick the element according to your weapon setup.
 
 ## Tip 2
 
-Press and hold right click to use Nola's bike to move around fast.
+Press and hold right click to use Nola's bike to move around fast. However it does use stamina unlike a proper mount.
