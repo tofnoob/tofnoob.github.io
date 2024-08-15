@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Artificial Island
+title: Network
 parent: World Guides
 ---
 
