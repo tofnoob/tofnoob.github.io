@@ -4,6 +4,14 @@ title: Network
 parent: World Guides
 ---
 
+## 4.x video guides
+
+Here's the links for Gateoo's FAQ guides for Network
+
+- 4.0 - https://www.youtube.com/watch?v=K-1yZqLyKHU
+- 4.1 - https://www.youtube.com/watch?v=GoB6GxdDjqE
+- 4.2 - https://www.youtube.com/watch?v=MLGFj3HGFnE
+
 ## Fang gang member mission
 
 During a new 4.2 quest you'll be asked to switch to be a Fang Gang member at a Terminal Management Switchboard, and can't continue without doing so. It's not immediately obvious how to do this, as some things get lost in translation as usual!
