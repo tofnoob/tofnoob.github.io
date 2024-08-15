@@ -42,6 +42,8 @@ When your crew builds up enough points then you can click where the red circles 
 
 Every day there will be a random item listed on the `Daily` tab that you can donate to the crew to earn more honour points and will help with getting the above rewards. There is also a `Get Help` button that when pressed will post a message in the crew chat for someone to donate the item to you.
 
+You also get 100 merit for donating.
+
 ## Weekly rewards
 
 Every week from Monday you can click on the purple circular button shown below to claim 100 DC and a crew reward box.
