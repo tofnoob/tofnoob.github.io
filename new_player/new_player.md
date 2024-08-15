@@ -44,6 +44,16 @@ You can also join various groups and teleport to them to unlock more areas faste
 
 Unlocking areas can be useful for accessing areas with limited time events.
 
+## Story skips
+
+If you're a new player then you may notice that the story jump around a bit, but this is intentional so that you can complete 25% of Vera to unlock the basic content like daily missions and vitality system.
+
+If you've jumped from Aesperia (World 1) to Vera (World 2) and want to return to the Aesperia story, then in the main menu click on `Terminal`, `Missions`, `Memories`.
+
+## XP boosters
+
+New players will receive some large multiplier for gaining XP faster to catchup. Not verified but you'll likely see this in the System messages, which is where World chat is.
+
 ## Worlds (Starchart Overview)
 As of version 4.2, there are 4 different Worlds (Starchart Overview). Each World has smaller sub areas which from the map view can be found "orbiting" the main World.
 
