@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Artificial Island
-nav_order: 2
+parent: New Player
 ---
 
 ## Mysterious Vendor - Jack
