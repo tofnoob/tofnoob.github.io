@@ -6,7 +6,7 @@ parent: World Guides
 
 ## Fang gang member mission
 
-During a 4.2 quest you'll be asked to switch to be a Fang Gang member at a Terminal Management Switchboard.
+During a 4.2 quest you'll be asked to switch to be a Fang Gang member at a Terminal Management Switchboard, and can't continue without doing so.
 
 The quest name is: Snake's Appointment
 
@@ -20,7 +20,7 @@ Go inside the phone booth using `Activate` button when you're in it, and go to o
 
 ![](images/terminal_management_switchboard.png)
 
-`Activate` one then under the Persona menu select the Wolf icon and press `Authentication` to join the gang.
+`Activate` one then under the Persona menu select the Wolf icon and press `Authentication` to join the gang. Now you can continue the quest.
 
 ![](images/fang_gang_authentication.png)
 
