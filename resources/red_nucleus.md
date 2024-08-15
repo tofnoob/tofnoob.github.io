@@ -15,3 +15,9 @@ This is what you need to pull for the limited weapons, so use them wisely! You c
 - tof codes
 - Mirroria gachapon machines
 - Claire's dream machine
+- [Bind email](#bind-email)
+
+## Bind Email
+A one time offer to get 1x red nucleus. Follow the instructions and link from the News menu.
+
+![](bind_email_rn.png)

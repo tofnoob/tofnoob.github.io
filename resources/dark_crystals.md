@@ -13,6 +13,7 @@ Commonly referred to as DC, this is the main gacha currency which is the equival
 - [Twitch drops](#twitch-drops)
 - [Daily login](#daily-login)
 - [Themed event](#themed-event)
+- [ToF discord lottery](#discord-lottery)
 - Mirroria gachapon machines
 - Weekly activity rewards
 - Crew honour points reward
@@ -75,3 +76,13 @@ To get the basic rewards you have to simply obtain 200 weekly activity points th
 [picture here]
 
 For additional DC rewards you'll have to invite a certain amount of friends to the game by sharing an invitation code.
+
+## Discord Lottery
+
+Within the official [ToF discord](https://discord.com/invite/toweroffantasy) there are various channels that offer you a chance to win DC for doing various actions. Here are a few recent examples:
+
+![](discord_maintenance_giveaway.png)
+
+![](discord_monthly_lottery.png)
+
+![](discord_quiz_dc.png)
