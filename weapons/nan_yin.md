@@ -5,7 +5,7 @@ parent: Weapons
 ---
 
 ## Nan Yin
-Nan Yin is the third Altered character that came out in version 3. Her weapon is called Purple Bamboo.
+Nan Yin is the third Altered character that first appeared in version 3. Her weapon is called Purple Bamboo.
 
 ![](images/nan_yin_profile.jpg)
 
