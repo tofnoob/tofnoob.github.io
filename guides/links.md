@@ -20,8 +20,8 @@ parent: Guides
 
 ## Where to find more guides
 
-- https://www.reddit.com/r/TowerofFantasy/?f=flair_name%3A%22Guides%20%26%20Tips%22
-- #tof-guides channel on ToF discord
+- [TowerofFantasy subreddit using guides flair](https://www.reddit.com/r/TowerofFantasy/?f=flair_name%3A%22Guides%20%26%20Tips%22)
+- [#tof-guides](https://discord.com/invite/toweroffantasy) channel on ToF discord
 - Some YouTuber's still cover ToF (see below)
 
 ## Active YouTube channels
