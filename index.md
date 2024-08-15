@@ -15,11 +15,15 @@ This site is intended as a quick guide and reference to all things Tower of Fant
 
 # Current event reminders (<span style="color:red"><b>NEW!</b></span>)
 
-## 4.2 events
+## 4.2 event gift
 Don't forget to pickup the Seaside Star for 1 gold which is a **DAILY** drop! It runs from August 13-31st!
 
-You must scroll to the **very bottom** of the gift back page to find it. This gives up to 150 DC if you're lucky.
+You must scroll to the **very bottom** of the gift pack page to find it. This gives up to 150 DC if you're lucky.
 
-![](2nd_anniversary_seaside_star.png)
+![](images/2nd_anniversary_seaside_star.png)
+
+## 4.2 event calendar
+
+![](images/4.2_events_cal.jpeg)
 
 ----
