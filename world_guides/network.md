@@ -8,7 +8,7 @@ parent: World Guides
 
 During a 4.2 quest you'll be asked to switch to be a Fang Gang member at a Terminal Management Switchboard.
 
-The quest name is: ...
+The quest name is: Snake's Appointment
 
 ![](images/fang_gang_member_prompt.jpg)
 
