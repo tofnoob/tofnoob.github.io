@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Artificial Island
-parent: World guides
+parent: World Guides
 ---
 
 ## Fang gang member mission
