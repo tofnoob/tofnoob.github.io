@@ -13,12 +13,12 @@ If you are completely new to the game then [start here](https://tofnoob.github.i
 # Purpose
 This site is intended as a quick guide and reference to all things Tower of Fantasy, to save time going through long articles or browsing endlessly on reddit and discord. I'll link to more in-depth content where possible.
 
-# Current event reminders (<span style="color:red">NEW!</span>)
+# Current event reminders (<span style="color:red"><b>NEW!</b></span>)
 
 ## 4.2 events
 Don't forget to pickup the Seaside Star for 1 gold which appears to be a **DAILY** drop!
 
-This gives up to 150 DC if you're lucky.
+You must scroll to the **very bottom** of the gift back page to find it. This gives up to 150 DC if you're lucky.
 
 ![](2nd_anniversary_seaside_star.png)
 
