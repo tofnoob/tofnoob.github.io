@@ -19,6 +19,7 @@ Touch Me Not Flame - https://www.youtube.com/watch?v=gYRVI-2S5gw
 Touch Me Not Volt - https://www.youtube.com/watch?v=gaboGoylLHo
 
 ## Tip 1
+
 Remember to change Nola's element depending on your current weapon setup! It's easy to forget this in some game modes like Evolution Vanguard. Forgetting to do this can significantly affect your damage output.
 
 To change the element, go to the `Weapons` menu, then click on `Skills`.
@@ -31,4 +32,10 @@ Then select the Cog icon here pick the element according to your weapon setup.
 
 ## Tip 2
 
-Press and hold right click to use Nola's bike to move around fast. However it does use stamina unlike a proper mount.
+Press forward and hold right click for at least a second to activate the dodge skill Sonic Skyrider (Nola's bike) to move around just like a vehicle but mounting this is faster! However it does use stamina unlike a proper mount. You can also release right click after the bike appears, but continue holding forward.
+
+![](images/nola_bike.jpg)
+
+## Tip 3
+
+After 10 seconds of using the above Sonic Skyrider in the Overworld, run into any non-boss enemy to instantly execute it!
