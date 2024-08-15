@@ -14,6 +14,7 @@ For new players I'd recommend to:
 - focus on the main story (use the **_skip_** button if you want) and do some exploration of the Worlds
 - join an active crew
 - get help from others to complete content that can be done in groups, like raids or bosses
+- keep dimension low at first to make World exploration and combat easier
 - choose **one** main weapon element that you like and stick to it (flame, frost, physical, volt)
 - remember to collect weekly rewards from the `commissionary` and `crew` menu
 - avoid being a dedicated healer early on, as you must have enough damage to clear some solo content
