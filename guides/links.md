@@ -9,8 +9,7 @@ parent: Guides
 | Title    | Link | Notes | Credit |
 | -------- | ------- | ------- | ------- |
 | Healing guide  | [here](https://docs.google.com/document/d/1aVncsZwXMuTENDynwEtzJzHzLyVfrou9ovbLg9gvuVQ/edit?usp=sharing) | An old guide but is still relevant. A team like Zero, Lyra, Fiona would work well these days. | Katherine Isley, Megapint, Gid - [original post](https://www.reddit.com/r/TowerofFantasy/comments/12aerd0/healing_guide/) |
-| 2024 New Player Starter Guide | [here](https://www.youtube.com/watch?v=o2F5f_q9BVw) | | 
-Touch Me Not |
+| 2024 New Player Starter Guide | [here](https://www.youtube.com/watch?v=o2F5f_q9BVw) | | Touch Me Not |
 | Data repeater guide | [here](files/DataRepeaterGuide.pdf) | | Kata - [original post](https://www.reddit.com/r/TowerofFantasy/comments/1dr0uke/data_repeater_aka_blocker_guide/)|
 | 4.0 Gear Enhancement optimization | [here](https://www.reddit.com/r/TowerofFantasy/comments/1d9df0m/psa_optimizing_gear_enhancements_in_40/) | | Mist_ori |
 | Titan gear explained | [here](https://www.youtube.com/watch?v=Yeoe1ue0qdY) | The titan gear material icons show in the video were updated in a later patch, but the idea is exactly the same | Redefine Gamer |
