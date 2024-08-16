@@ -13,10 +13,10 @@ Occasionally, you might encounter Nola being called "Nora" online. I believe tha
 
 ## Video guides
 
-Touch Me Not Physical - https://www.youtube.com/watch?v=jmNyNobeNys
-Touch Me Not Frost - https://www.youtube.com/watch?v=521m4GYeCkc
-Touch Me Not Flame - https://www.youtube.com/watch?v=gYRVI-2S5gw
-Touch Me Not Volt - https://www.youtube.com/watch?v=gaboGoylLHo
+- Touch Me Not Physical - https://www.youtube.com/watch?v=jmNyNobeNys
+- Touch Me Not Frost - https://www.youtube.com/watch?v=521m4GYeCkc
+- Touch Me Not Flame - https://www.youtube.com/watch?v=gYRVI-2S5gw
+- Touch Me Not Volt - https://www.youtube.com/watch?v=gaboGoylLHo
 
 ## Tip 1
 

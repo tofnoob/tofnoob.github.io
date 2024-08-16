@@ -11,8 +11,8 @@ Fiona is the second Altered character that appeared during version 2. Her weapon
 
 ## Video guides
 
-Magyi part 1 - https://www.youtube.com/watch?v=_5rz9ijFXjA
-Michuzak Fiona skill guide - https://www.youtube.com/watch?v=jwDMT5GdqL4
+- Magyi part 1 - https://www.youtube.com/watch?v=_5rz9ijFXjA
+- Michuzak Fiona skill guide - https://www.youtube.com/watch?v=jwDMT5GdqL4
 
 ## Tip 1
 When in benediction mode you can link to an ally to provide them a buff depending on their resonance. This feature is called Division to use it you hold left click, target your ally, then release left click. You'll see a blue liquid  link to your ally.
