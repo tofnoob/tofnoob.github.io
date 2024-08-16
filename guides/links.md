@@ -8,6 +8,7 @@ parent: Guides
 
 | Title    | Link | Notes | Credit |
 | -------- | ------- | ------- | ------- |
+| Benediction guide | [here] https://docs.google.com/document/d/1DuXmff6kelbZxB2FUSwjSDIFLASUbHUJpmnhid1sZGk/edit#heading=h.qut6qs8g5xb0 | Slightly newer than the healing (benediction) guide below | Maygi |
 | Healing guide  | [here](https://docs.google.com/document/d/1aVncsZwXMuTENDynwEtzJzHzLyVfrou9ovbLg9gvuVQ/edit?usp=sharing) | An old guide but is still relevant. A team like Zero, Lyra, Fiona would work well these days. | Katherine Isley, Megapint, Gid - [original post](https://www.reddit.com/r/TowerofFantasy/comments/12aerd0/healing_guide/) |
 | 2024 New Player Starter Guide | [here](https://www.youtube.com/watch?v=o2F5f_q9BVw) | | Touch Me Not |
 | Data repeater guide | [here](files/DataRepeaterGuide.pdf) | | Kata - [original post](https://www.reddit.com/r/TowerofFantasy/comments/1dr0uke/data_repeater_aka_blocker_guide/)|
