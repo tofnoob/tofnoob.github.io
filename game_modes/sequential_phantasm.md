@@ -10,7 +10,9 @@ An almost hidden game mode until you can figure out where it lives in the UI!
 ## Menu location
 Go to Bygone Phantasm and it will be a vertical tab on the left of the screen.
 
-[pic here soon]
+In the picture below, click the circled buttons to toggle between Bygone Phantasm and Sequential Phantasm!
+
+![](images/bygone_menu.png)
 
 ## Boundless Realm Mode
 Reach 3500 points for any element to unlock boundless realm mode for that element only. Do this for each element to unlock boundless for all elements.
