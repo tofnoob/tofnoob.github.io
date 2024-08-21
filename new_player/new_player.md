@@ -85,3 +85,14 @@ Coming soon...
 There is a mentor system where someone can guide new players and both get rewards.
 
 ## Commissionary
+Coming soon...
+
+## Artificial Island
+
+## Temporary boost weapon and matrices power
+There are two items at the "Golden Elixir Pavilion" shop that will boost your stats temporarily for 7 days.
+
+- Enhancement blade shot
+- Enhancement shot
+
+[Video guide](https://www.youtube.com/watch?v=eaLMqWq2cC8)
