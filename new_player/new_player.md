@@ -64,7 +64,7 @@ The Worlds in order of appearance are:
 4. Network
 
 ## World dimension level
-Coming soon...
+Open your map to see it.
 
 ## User Interface
 It may sound silly to have a guide on the UI, but the menus are really something special in ToF that will confuse newcomers.
