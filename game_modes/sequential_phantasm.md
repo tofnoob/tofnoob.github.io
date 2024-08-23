@@ -22,4 +22,4 @@ Reach Boundless Realm mode stage 5 in each of the 4 elements to unlock it. So ea
 
 ![](images/altered_sequential.jpg)
 
-Note it seems that the maximum altered level you can access is limited by your maximum level in all other elements. E.g. if flame, volt, physical & frost show level 4, then level 3 is the max you can access until you progress further in the main elements.
+Note - it seems that the maximum altered level you can access is limited by your maximum level in all other elements. E.g. if flame, volt, physical & frost show level 4, then level 3 is the max you can access, and when the 4 main element level is 5 then you can access level 4 altered etc.
