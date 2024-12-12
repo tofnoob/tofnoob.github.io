@@ -28,3 +28,21 @@ Note - it seems that the maximum altered level you can access is limited by your
 Level 16 is the current maximum for each main element as of December 2024.
 
 For Altered it's a bit lower at 8.
+
+## Buffs
+Use various buffs to increase your power:
+
+- Mia food buff daily (x3 that can stack)
+- Food item buffs, i.e. purple food that give 2% element specific atk% for example
+- Domain 9 "drugs" weekly purchase
+  - Enhancement Shot (Jing Dan merchant) - Increase the base stats of the equipped weapons and Matrices to as if they're at max stars for 7 days.
+  - Piercing Shot (Jing Dan merchant) - Regenerate 600 endurance. Increase shatter by 15% and aggro by 25% for 7 days.
+  - Enhanced Blade Shot (Jing Dan merchant)
+
+## Jing Dan merchange
+Located in Tianhe Bazaar. Buy the drugs with Dominium currency.
+
+Some ways to get Dominium currency:
+
+- https://www.youtube.com/watch?v=ip95FHPRR9E
+- https://www.youtube.com/watch?v=FG4-Jtvb4n0
