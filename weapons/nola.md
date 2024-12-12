@@ -39,3 +39,7 @@ Press forward and hold right click for at least a second to activate the dodge s
 ## Tip 3
 
 After 10 seconds of using the above Sonic Skyrider in the Overworld, run into any non-boss enemy to instantly execute it!
+
+## Tip 4
+
+When riding the bike after holding right click, press Jump and you'll get a small speed boost! This can be useful in the Overworld and in Join Ops etc.
