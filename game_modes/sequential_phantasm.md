@@ -40,7 +40,7 @@ Use various buffs to increase your power:
   - Enhanced Blade Shot (Jing Dan merchant)
 
 ## Jing Dan merchange
-Located in Tianhe Bazaar. Buy the drugs with Dominium currency.
+Located in Tianhe Bazaar. Buy the drugs with Dominium currency...but warning - this is heavy grind.
 
 Some ways to get Dominium currency:
 
