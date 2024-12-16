@@ -13,7 +13,9 @@ There are so many ways to increase power that it's easy to lose track of them al
 - Relics provide a direct buff during combat AND often have passives at A4 that give permanent element buffs! E.g. 2% element damage increase
 - Altered weapon special skills e.g. Fiona (6 skills) and Nan Yin inhabit
 - Optimising weapon rotations during combat
-- Gear levelup <todo>
+- Gear levelup (todo)
+  - augments
+- Lin A2 and A5
 
 # Meta team compositions
 The best way to see this is to view the Rankings menu for a mode like Bygone/Sequential Phantasm and view the profile of the top ranked players. Use the `magnifying glass` icon, then `View info` to see this.
