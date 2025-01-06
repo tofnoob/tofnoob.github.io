@@ -8,9 +8,11 @@ parent: Game Modes
 An almost hidden game mode until you can figure out where it lives in the UI!
 
 ## Menu location
-Go to Bygone Phantasm and it will be a vertical tab on the left of the screen.
+First find Bygone Phantasm.
 
 ![seq_top_menu](https://github.com/user-attachments/assets/c64a83f7-75eb-48a7-a441-a74b3ca31c49)
+
+Go to Bygone Phantasm and there will be a vertical tab on the left of the screen.
 
 ![seq_adventure_menu](https://github.com/user-attachments/assets/1f31a159-a4a9-4cea-ba46-0efffca37356)
 
