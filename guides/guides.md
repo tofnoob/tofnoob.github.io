@@ -8,6 +8,8 @@ parent: Guides and Tools
 
 | Title    | Link | Notes | Credit |
 | -------- | ------- | ------- | ------- |
+| 2025 Benediction guide | coming soon |  |  |
+| 4.5 Gear Enhancement optimization | [here](https://www.reddit.com/r/TowerofFantasy/comments/1hls80y/psa_optimizing_gear_enhancements_in_45/) | | Mist_ori |
 | Benediction guide | [here](https://docs.google.com/document/d/1DuXmff6kelbZxB2FUSwjSDIFLASUbHUJpmnhid1sZGk/edit#heading=h.qut6qs8g5xb0) | Slightly newer than the healing (benediction) guide below | Maygi |
 | Healing guide  | [here](https://docs.google.com/document/d/1aVncsZwXMuTENDynwEtzJzHzLyVfrou9ovbLg9gvuVQ/edit?usp=sharing) | An old guide but is still relevant. A team like Zero, Lyra, Fiona would work well these days. | Katherine Isley, Megapint, Gid - [original post](https://www.reddit.com/r/TowerofFantasy/comments/12aerd0/healing_guide/) |
 | 2024 New Player Starter Guide | [here](https://www.youtube.com/watch?v=o2F5f_q9BVw) | | Touch Me Not |
