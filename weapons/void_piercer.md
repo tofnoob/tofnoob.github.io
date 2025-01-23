@@ -20,7 +20,7 @@ Void Piercer is the latest Altered character (the fifth one) who first appeared 
 
 When Star of Oblivion is in the active team, then you can teleport straight to any boss AND it automatically switches to a channel where the boss is alive. Open map > World Boss > Pick boss and press GO > Divine Arrival.
 
-![](images/vp_divine_arrival.jpg)
+![](images/void_piercer_divine_arrival.jpg)
 
 ## Tip 2
 
