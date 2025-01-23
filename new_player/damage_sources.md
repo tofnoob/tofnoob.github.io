@@ -25,6 +25,7 @@ There are so many ways to increase power that it's easy to lose track of them al
   - A5 permanent 4% elemental damage increase
 - Suppressor upgrading
 - Smart Servant
+- Sequential Phantasm - clearing content gives you items that permanently boost your HP and ATK
 
 # Temporary Damage sources
 - Mia food buffs (stacks x3)
