@@ -15,7 +15,10 @@ There are so many ways to increase power that it's easy to lose track of them al
 - Altered weapon special skills e.g. Fiona (6 skills) and Nan Yin inhabit
 - Optimising weapon rotations during combat
 - Gear levelup (todo)
-  - augments
+  - Gear advancement to 5*
+  - Gear enhancement to level 70 (patch 4.6 max)
+  - Gear augument (titan gear + titan stat)
+  - Supercomputing Evolution
 - Lin Synesthesia weapon upgrade
   - A2 permanent 3% elemental damage increase
   - A5 permanent 4% elemental damage increase
