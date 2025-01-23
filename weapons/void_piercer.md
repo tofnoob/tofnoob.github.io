@@ -18,8 +18,14 @@ Void Piercer is the latest Altered character (the fifth one) who first appeared 
 
 ## Tip 1
 
-Holding skill is faster to use than tapping it.
+When Star of Oblivion is in the active team, then you can teleport straight to any boss AND it automatically switches to a channel where the boss is alive. Open map > World Boss > Pick boss and press GO > Divine Arrival.
+
+![](images/vp_divine_arrival.jpg)
 
 ## Tip 2
+
+Holding skill is faster to use than tapping it.
+
+## Tip 3
 
 Her matrix 2 piece is very strong as it ignores 35% of the target's shield when equipped on Star of Oblivion.
