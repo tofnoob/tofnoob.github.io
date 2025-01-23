@@ -19,3 +19,7 @@ Void Piercer is the latest Altered character (the fifth one) who first appeared 
 ## Tip 1
 
 Holding skill is faster to use than tapping it.
+
+## Tip 2
+
+Her matrix 2 piece is very strong as it ignores 35% of the target's shield when equipped on Star of Oblivion.
