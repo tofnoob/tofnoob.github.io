@@ -5,7 +5,7 @@ parent: Weapons
 ---
 
 ## Void Piercer
-Nola the latest Altered character (the fifth one) who first appeared in version 4.6. Her weapon is called **Star of Oblivion**.
+Void Piercer is the latest Altered character (the fifth one) who first appeared in version 4.6. Her weapon is called **Star of Oblivion**.
 
 ![](images/void_piercer_profile.jpg)
 
@@ -18,4 +18,4 @@ Nola the latest Altered character (the fifth one) who first appeared in version 
 
 ## Tip 1
 
-Holding skill is faster to use than tapping it
+Holding skill is faster to use than tapping it.
