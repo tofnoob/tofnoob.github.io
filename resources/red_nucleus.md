@@ -9,6 +9,7 @@ This is what you need to pull for the limited weapons, so use them wisely! You c
 
 # How to obtain
 - in-game shop
+- Simulacra story completion reward for each character
 - events
 - exploration
 - twitter drops
