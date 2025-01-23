@@ -22,6 +22,7 @@ There are so many ways to increase power that it's easy to lose track of them al
 - Lin Synesthesia weapon upgrade
   - A2 permanent 3% elemental damage increase
   - A5 permanent 4% elemental damage increase
+- Smart Servant
 
 # Temporary Damage sources
 - Mia food buffs (stacks x3)
