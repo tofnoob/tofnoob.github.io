@@ -10,6 +10,7 @@ There are so many ways to increase power that it's easy to lose track of them al
 - Pull new limited weapons, and get advancements up to A6 if necessary
 - Pull new limited matrices, and get them up each up to A3 (very costly)
 - Unlock character traits and enable them (Simulacra menu, then Awaken -> Gift. Get 4000 gift points thenn toggle `Simulacrum Trait` to On)
+- Upgrade traits to max (7000) then upgrade Awakening stats to get a permanent atk boost using the appropriate region Upgrade Drive item (farm Joint Operations daily, or buy with tanium)
 - Relics provide a direct buff during combat AND often have passives at A4 that give permanent element buffs! E.g. 2% element damage increase
 - Altered weapon special skills e.g. Fiona (6 skills) and Nan Yin inhabit
 - Optimising weapon rotations during combat
@@ -19,7 +20,7 @@ There are so many ways to increase power that it's easy to lose track of them al
   - A2 permanent 3% elemental damage increase
   - A5 permanent 4% elemental damage increase
 
-# Other Damage sources
+# Temporary Damage sources
 - Mia food buffs (stacks x3)
 - Crafted Food buffs
 - Domain 9 drugs
