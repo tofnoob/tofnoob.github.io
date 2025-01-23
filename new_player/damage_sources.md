@@ -10,7 +10,7 @@ There are so many ways to increase power that it's easy to lose track of them al
 - Pull new limited weapons, and get advancements up to A6 if necessary
 - Pull new limited matrices, and get them up each up to A3 (very costly)
 - Unlock character traits and enable them (Simulacra menu, then Awaken -> Gift. Get 4000 gift points thenn toggle `Simulacrum Trait` to On)
-- Upgrade traits to max (7000) then upgrade Awakening stats to get a permanent atk boost using the appropriate region Upgrade Drive item (farm Joint Operations daily, or buy with tanium)
+- Upgrade traits to max awakening points (7000) then upgrade Awakening stats to get a permanent atk boost using the appropriate region Upgrade Drive item (farm Joint Operations daily, or buy with tanium) - do this for each available character you have that can go to max points, as some stop at 4000.
 - Relics provide a direct buff during combat AND often have passives at A4 that give permanent element buffs! E.g. 2% element damage increase
 - Altered weapon special skills e.g. Fiona (6 skills) and Nan Yin inhabit
 - Optimising weapon rotations during combat
