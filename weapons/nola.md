@@ -44,4 +44,8 @@ After 10 seconds of using the above Sonic Skyrider in the Overworld, run into an
 
 When riding the bike after holding right click, press Jump and you'll get a small speed boost! This can be useful in the Overworld and in Join Ops etc.
 
-It only lasts a short time so just jump again for another boost.
+It only lasts a short time so just jump again for another boost. Note that it costs a small chunk of stamina to jump.
+
+## Tip 5
+
+You can ride the bike in story instances where you usually can't ride vehicles, so this is a huge time saver.
