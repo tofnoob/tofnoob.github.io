@@ -18,10 +18,12 @@ There are so many ways to increase power that it's easy to lose track of them al
   - Gear advancement to 5*
   - Gear enhancement to level 70 (patch 4.6 max)
   - Gear augument (titan gear + titan stat)
+  - Basic gear 8 piece activation (bonus stats when ALL non-Vera gear reaches a set enhancement level like 10, 15, 20 etc.)
   - Supercomputing Evolution
 - Lin Synesthesia weapon upgrade
   - A2 permanent 3% elemental damage increase
   - A5 permanent 4% elemental damage increase
+- Suppressor upgrading
 - Smart Servant
 
 # Temporary Damage sources
