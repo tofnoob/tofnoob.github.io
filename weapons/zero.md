@@ -9,4 +9,4 @@ Benediction unit.
 
 ## Video guide
 
-<video src="videos/zero_guide.mp4" width="480" controls></video>
+<video src="videos/zero_guide.mp4" width="720" controls></video>
