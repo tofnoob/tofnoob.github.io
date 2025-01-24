@@ -28,7 +28,7 @@ There are so many ways to increase power that it's easy to lose track of them al
 - Sequential Phantasm - clearing content gives you items that permanently boost your HP and ATK
 
 # Temporary Damage sources
-- **Domain 9 boosters** - Dominium currency weekly farming required, but a __**very strong buff**__ for ALL players especially Free to Play!
+- **Domain 9 boosters** - Dominium currency weekly farming required, but a _**very strong buff**_ for ALL players especially Free to Play!
 - Mia food buffs (stacks x3)
 - Crafted Food buffs
 - Mentorship Store serums
