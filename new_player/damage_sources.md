@@ -25,7 +25,8 @@ There are so many ways to increase power that it's easy to lose track of them al
   - A5 permanent 4% elemental damage increase
 - Suppressor upgrading
 - Smart Servant
-- Sequential Phantasm - clearing content gives you items that permanently boost your HP and ATK
+- Sequential Phantasm - clearing content gives you items that permanently boosts your HP and ATK
+- Map exploration - this also gives you items that permanently boosts your HP and ATK
 
 # Temporary Damage sources
 - **Domain 9 boosters** - Dominium currency weekly farming required, but a _**very strong buff**_ for ALL players especially Free to Play!
