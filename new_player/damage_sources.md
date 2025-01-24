@@ -9,12 +9,12 @@ There are so many ways to increase power that it's easy to lose track of them al
 
 - Pull new limited weapons, and get advancements up to A6 if necessary
 - Pull new limited matrices, and get them up each up to A3 (very costly)
-- Unlock character traits and enable them (Simulacra menu, then Awaken -> Gift. Get 4000 gift points thenn toggle `Simulacrum Trait` to On)
+- Unlock character traits and enable them (Simulacra menu, then Awaken -> Gift. Get 4000 gift points then toggle `Simulacrum Trait` to On)
 - Upgrade traits to max awakening points (7000) then upgrade Awakening stats to get a permanent atk boost using the appropriate region Upgrade Drive item (farm Joint Operations daily, or buy with tanium) - do this for each available character you have that can go to max points, as some stop at 4000.
 - Relics provide a direct buff during combat AND often have passives at A4 that give permanent element buffs! E.g. 2% element damage increase
 - Altered weapon special skills e.g. Fiona (6 skills) and Nan Yin inhabit
 - Optimising weapon rotations during combat
-- Gear levelup (todo)
+- Gear level-up (todo)
   - Gear advancement to 5*
   - Gear enhancement to level 70 (patch 4.6 max)
   - Gear augument (titan gear + titan stat)
@@ -28,9 +28,9 @@ There are so many ways to increase power that it's easy to lose track of them al
 - Sequential Phantasm - clearing content gives you items that permanently boost your HP and ATK
 
 # Temporary Damage sources
+- **Domain 9 boosters** - Dominium currency weekly farming required, but a __**very strong buff**__ for ALL players especially Free to Play!
 - Mia food buffs (stacks x3)
 - Crafted Food buffs
-- Domain 9 drugs
 - Mentorship Store serums
 
 # Meta team compositions
