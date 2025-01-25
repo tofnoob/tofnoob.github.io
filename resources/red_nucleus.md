@@ -16,6 +16,7 @@ This is what you need to pull for the limited weapons, so use them wisely! You c
 - tof codes
 - Mirroria gachapon machines
 - Claire's dream machine
+- Artificial Island mysterious vendor
 - [Bind email](#bind-email)
 
 ## Bind Email
