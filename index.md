@@ -21,10 +21,12 @@ This site is intended as a quick guide and reference to all things Tower of Fant
 
 Video guide [here](https://www.youtube.com/watch?v=iXrmnY0HNeE)
 
-## Equipment advacement event
+## 4.6 SSR free pick box
 
-Someone at Hotta made a mistake and released a feature unintentionally to basically make it easier to get better gear rolls. This will only last until 4.5 update though!
+Open day 5 of Gala fantasy box to get a SSR free pick!
 
-![image](https://github.com/user-attachments/assets/5c7f5c21-c3d3-44fe-9772-2ee14326d9b6)
+![image](https://github.com/user-attachments/assets/93f41214-54a7-4c7e-95a5-6522d9380c3b)
+
+![image](https://github.com/user-attachments/assets/d27e9028-54c0-439e-b6b6-8c29863b3852)
 
 ----
