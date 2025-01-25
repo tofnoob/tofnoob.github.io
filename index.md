@@ -25,7 +25,7 @@ Video guide [here](https://www.youtube.com/watch?v=iXrmnY0HNeE)
 
 Open day 5 of Gala fantasy box to get a SSR free pick!
 
-![image](https://github.com/user-attachments/assets/2559938b-635d-42d1-a3ed-fb7bbbeb0da9)
+![image](https://github.com/user-attachments/assets/2dfc7ffa-2179-4aa5-8a9d-9b150b557c6c)
 
 ![image](https://github.com/user-attachments/assets/93f41214-54a7-4c7e-95a5-6522d9380c3b)
 
