@@ -19,6 +19,7 @@ Commonly referred to as DC, this is the main gacha currency which is the equival
 - Crew honour points reward
 - Crew weekly rewards
 - Crew weekly rewards box
+- Void Abyss
 - Bygone phantasm
 - Apex league
 - The critical abyss
