@@ -13,5 +13,5 @@ The limited matrices that you get are another type of gear that can significantl
 - in-game shop
 - events
 - Mirroria gachapon machines
-- Artificial Island mysterious vendor
+- Artificial Island monthly shop
 - World exploration rewards
