@@ -33,6 +33,8 @@ Open day 5 of Gala fantasy box to get a SSR free pick!
 
 ## 4.6 event calendar
 
+**note** - the final free pulls for Void Piercer come the day before the banner ends! So save most pulls until 22nd Feb.
+
 ![image](https://github.com/user-attachments/assets/866f132d-019d-484a-93e7-6c10d606a20e)
 
 ![image](https://github.com/user-attachments/assets/907e2852-1516-41ed-8579-ebb3214599b2)
