@@ -11,10 +11,11 @@ Void Piercer is the latest Altered character (the fifth one) who first appeared 
 
 ## Video guides
 
+- Gateoo complete guide - [https://www.youtube.com/watch?v=L-AY9TluWqE](https://www.youtube.com/watch?v=L-AY9TluWqE)
 - Touch Me Not Physical - [https://www.youtube.com/watch?v=jmNyNobeNys](https://www.youtube.com/watch?v=kLlU4Quch1s)
 - Touch Me Not Frost - [https://www.youtube.com/watch?v=521m4GYeCkc](https://www.youtube.com/watch?v=_CfhF8Tglyk)
 - Touch Me Not Flame - [https://www.youtube.com/watch?v=gYRVI-2S5gw](https://www.youtube.com/watch?v=nyq6u3nWggE)
-- Touch Me Not Volt - N/A
+- Touch Me Not Volt - [https://www.youtube.com/watch?v=G8AfGvn1kRs](https://www.youtube.com/watch?v=G8AfGvn1kRs)
 
 ## Tip 1
 
