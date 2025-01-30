@@ -7,11 +7,11 @@ parent: Weapons
 ## Nemesis (Venus)
 Benediction unit released at launch in version 1.0.
 
-## Video guide
+## Kit and gameplay
 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/btCemOMLq7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Guide
+## Guide and team comps
 Nemesis as a unit brings a lot of burst and healing over time potential from her dodge, skill and discharge abilities. She can be used either as an on-field healer that provides necessary healing from her dodges, or a background healer that shows up in rough moments with a fully loaded kit. Her simple kit and easy gameplay are well suited for players that decide to try out Benediction.
 
 Unfortunately, outside of her healing ability, she doesn't bring much utility in the current state of the game which often forces us to rely on newer units in team building. It’s also worth mentioning that she's the only Benediction weapon that doesn't have any team buffs implemented in her kit.
