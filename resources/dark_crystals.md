@@ -21,7 +21,8 @@ Commonly referred to as DC, this is the main gacha currency which is the equival
 - Crew weekly rewards box
 - Void Abyss
 - Bygone phantasm
-- Apex league
+- Apex league monthly reward
+- Racing (Mirroria) monthly reward
 - The critical abyss
 - Cooking
 - Fishing
