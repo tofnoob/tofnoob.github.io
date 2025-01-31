@@ -24,3 +24,11 @@ For weapons that would cover her weaknesses, the best options are Brevey and Fio
 
 Lastly, when considering a trait to pair with her there are two good options. Brevey and Cocoritter. Cocoritter’s trait requires having Fiona in team to been able to spam discharges that activates her trait. Brevey works all the time and only requires being in Benediction resonance.
 
+## Team comps
+Here's some example teams to work towards. If you're a beginner then aim to get any standard benediction characters like Zero and Pepper.
+
+![](images/nemesis_tc1.jpg)
+
+![](images/nemesis_tc2.jpg)
+
+![](images/nemesis_tc3.jpg)
