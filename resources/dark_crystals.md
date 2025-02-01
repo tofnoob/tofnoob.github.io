@@ -11,7 +11,7 @@ Commonly referred to as DC, this is the main gacha currency which is the equival
 - [ToF codes](#tof-codes)
 - [ToF competition](#tof-competition)
 - [Twitch drops](#twitch-drops)
-- [Daily login](#daily-login)
+- [Daily login - LAST MONTH!](#daily-login)
 - [Themed event](#themed-event)
 - [ToF discord lottery](#discord-lottery)
 - Mirroria gachapon machines
