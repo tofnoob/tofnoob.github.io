@@ -7,7 +7,7 @@ parent: Resources
 # Dark Crystals
 Commonly referred to as DC, this is the main gacha currency which is the equivalent to Primogems in Genhin Impact. Use it to obtain limited weapons by converting it to red nucleus, as well as many other useful items that be found in the shop.
 
-# How to obtain
+# How to obtain (free)
 - [ToF codes](#tof-codes)
 - [ToF competition](#tof-competition)
 - [Twitch drops](#twitch-drops)
@@ -21,11 +21,11 @@ Commonly referred to as DC, this is the main gacha currency which is the equival
 - Crew weekly rewards box
 - Void Abyss
 - Bygone phantasm
-- Apex league monthly reward
-- Racing (Mirroria) monthly reward
+- [Apex league monthly reward](#apex-league)
+- [TBC] Racing (Mirroria) monthly reward
 - The critical abyss
-- Cooking
-- Fishing
+- [Cooking](#cooking)
+- [Fishing](#fishing)
 - Achievements
 - Supply pods
 - Vehicle maintenance
@@ -35,6 +35,11 @@ Commonly referred to as DC, this is the main gacha currency which is the equival
 - Follow Us
 - Wanderer's log
 - Share pull (save image)
+
+# How to obtain (paid)
+- Monthly battle pass
+- Monthly daily pass
+- Limited gift packs
 
 ## ToF Codes
 Codes often get released via the ToF discord channel "tof-codes". To redeem the code go to the `Rewards` menu, click on the `Rewards` tab then select `Exchange`. Here you can enter the code and you'll get the gift in your mailbox after a couple of minutes (this takes quite a bit longer than Hoyoverse games, so be patient).
@@ -88,3 +93,15 @@ Within the official [ToF discord](https://discord.com/invite/toweroffantasy) the
 ![](discord_monthly_lottery.png)
 
 ![](discord_quiz_dc.png)
+
+## Apex league
+
+Apex and 8v8 share the DC pool, so the highest rank takes precedence for rewards. Take part it in at least once a month to get easy rewards (win or lose).
+
+## Fishing
+
+Fishing gives DC for the first fish caught of that kind
+
+## Cooking
+
+Cooking gives DC for the first time making a new dish
