@@ -49,6 +49,7 @@ Use gold to buy the gifts.
 ![](images/gift_aesperia_banges_vendor.png)
 
 - Commisionary shop with gold dust or training points. Access the Commissary store from the main menu to find this.
+  
 ![image](https://github.com/user-attachments/assets/53c29f00-85fc-482b-bf21-84044246098b)
 ![image](https://github.com/user-attachments/assets/231b167d-db11-45be-84c8-300948aa0fb1)
 
