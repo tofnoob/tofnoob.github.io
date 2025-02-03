@@ -23,11 +23,12 @@ In the North of the map, go to the circled teleporter.
 You get 3 daily chances to win a gift from the machine.
 ![](images/gift_aesperia_claw_machine.png)
 
-On PC use WASD keys to move the claw around. The best toy to get is Smarty Doll, so use the blue circle to aim for the head. 
+On PC use WASD keys to move the claw around. The best toy to get is Smarty Doll, so use the blue circle to aim for the head.
+
 ![image](https://github.com/user-attachments/assets/031fda46-e572-4853-bc79-372f52fd6b87)
 ![](images/gift_aesperia_claw_machine_smarty_doll.png)
 
-After you win then move away from the clas machine and return to it again to make the diaglogue show for another go.
+After you win then move away from the claw machine and return to it again to make the diaglogue show for another go.
 
 2) <ins>The black market vendor</ins>
 
