@@ -43,7 +43,7 @@ Lastly, when considering a trait to pair with her there are two good options. Br
 
 ## Team Comps
 
-Here are some example teams to work towards. If you're a beginner, aim to get any standard Benediction characters like Zero and Pepper.
+Here are some example teams to work towards. If you're a beginner and have Nemesis, then aim to get any standard Benediction characters like Zero and Pepper.
 
 ![Team Comp 1](images/nemesis_tc1.png)  
 ![Team Comp 2](images/nemesis_tc2.png)  
