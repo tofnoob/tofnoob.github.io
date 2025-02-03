@@ -5,61 +5,84 @@ parent: Resources
 ---
 
 # Gifts
-Gifts are used for Awakening a character that unlocks Traits and permanent damage boosts.
+Gifts are used for **Awakening** a character, unlocking Traits and permanent damage boosts.
 
-Gifts are World specific so since patch 4 there's Aesperia/Vera/Domain9/Network gifts.
+Gifts are **World-specific**, so since patch 4, there are: **Aesperia, Vera, Domain 9, and Network gifts**.
 
-## How to obtain gifts
-coming soon...
+## 📌 Table of Contents
+- [How to Obtain Gifts](#how-to-obtain-gifts)
+- [Aesperia Gifts](#aesperia-gifts)
+  - [Farm Free Daily Gifts](#farm-free-daily-gifts)
+  - [Buy Aesperia Gifts](#buy-aesperia-gifts)
+- [Vera Gifts](#vera-gifts)
 
-## Aesperia gifts
-### Farm free **daily** gifts from:
+---
 
-1) <ins>Claw game</ins> (note that it seems bugged on Android mobile and the claw doesn't grab properly)
+## How to Obtain Gifts
+_Coming soon..._
 
-In the North of the map, go to the circled teleporter.
-![](images/gift_aesperia_claw_machine_map.png)
+---
 
-You get 3 daily chances to win a gift from the machine.
-![](images/gift_aesperia_claw_machine.png)
-
-On PC use WASD keys to move the claw around. The best toy to get is Smarty Doll, so use the blue circle to aim for the head.
-
-![image](https://github.com/user-attachments/assets/031fda46-e572-4853-bc79-372f52fd6b87)
-![](images/gift_aesperia_claw_machine_smarty_doll.png)
-
-After you win then move away from the claw machine and return to it again to make the diaglogue show for another go.
-
-2) <ins>The black market vendor</ins>
-
-Find NPC Hopkins around the middle of the map. The gift is a lower quality than the claw machine but may still be worth farming if you're new.
-![](images/gift_aesperia_hopkins_map.png)
-
-Speak with him then choose any of the 2 boxes to win a daily gift.
-![](images/gift_aesperia_hopkins.png)
-
-### Buy Aesperia gifts
-
-Weekly purchases for these gift usually have a low limit per item.
-
-Find Banges towards the lower left of the map then look for the Balmart grocery store a level above the teleporter.
-![](images/gift_aesperia_banges_vendor_map.png)
-
-Use gold to buy the gifts.
-![](images/gift_aesperia_banges_vendor.png)
-
-- Commisionary shop with gold dust or training points. Access the Commissary store from the main menu to find this.
+## Aesperia Gifts
+### Farm Free Daily Gifts
+#### 1️⃣ Claw Game (Best Free Gift)
+- **Location**: North of the map (teleporter circled below)
+- **How to Play**: Move the claw using `WASD` (PC) and aim for the **Smarty Doll**.
+- **⚠️ Bug Warning**: Claw machine may not work properly on Android.
+- **🖼 Image**:
+  ![](images/gift_aesperia_claw_machine_map.png)
   
-![image](https://github.com/user-attachments/assets/53c29f00-85fc-482b-bf21-84044246098b)
-![image](https://github.com/user-attachments/assets/231b167d-db11-45be-84c8-300948aa0fb1)
+  _Go to the circled teleporter to find the claw machine._
 
-- Artificial Island exchange store
-![image](https://github.com/user-attachments/assets/81654d04-e1f5-49e1-aa3c-03ee427912da)
-![image](https://github.com/user-attachments/assets/9ddce498-9c0f-4713-bc7f-25ffcdbb6c3a)
+  ![](images/gift_aesperia_claw_machine.png)
+  
+  _You get 3 daily chances to win a gift._
+  
+  ![Smarty Doll](images/gift_aesperia_claw_machine_smarty_doll.png)
+  
+  _Aim for the Smarty Doll to get the best rewards._
 
-## Vera gifts
-From here on you'll need to get World specific currency to buy gifts
+#### 2️⃣ Black Market Vendor
+- **NPC**: Hopkins
+- **Location**: Middle of the map
+- **Reward**: Lower-quality gift compared to the claw machine
+- **How to Obtain**: Speak to him and choose any of the two boxes to get a daily gift.
+- **🖼 Image**:
+  ![](images/gift_aesperia_hopkins_map.png)
+  
+  _Find Hopkins in the middle of the map._
 
-## Domain 9 gifts
+  ![](images/gift_aesperia_hopkins.png)
+  
+  _Select a box to receive a daily gift._
 
-## Network gifts
+---
+
+### Buy Aesperia Gifts
+**Weekly purchases have a low limit per item.**
+
+#### 1️⃣ **Balmart Grocery Store**
+- **Location**: Banges (Upper Level, above teleporter)
+- **Currency**: Gold
+- **🖼 Image**:
+  ![](images/gift_aesperia_banges_vendor_map.png)
+  
+  _Find the store towards the lower-left of the map._
+
+  ![](images/gift_aesperia_banges_vendor.png)
+  
+  _Use gold to buy gifts._
+
+#### 2️⃣ **Other Shops**
+| Store Name                  | Location             | Currency                  |
+|-----------------------------|----------------------|---------------------------|
+| **Commissary Shop**        | Main Menu           | Gold Dust / Training Points |
+| **Artificial Island Store** | Artificial Island   | Special Tokens             |
+
+  ![Commissary Shop](https://github.com/user-attachments/assets/53c29f00-85fc-482b-bf21-84044246098b)
+  ![Artificial Island Store](https://github.com/user-attachments/assets/81654d04-e1f5-49e1-aa3c-03ee427912da)
+
+---
+
+## Vera Gifts
+_From here on, you'll need **World-specific currency** to buy gifts._
