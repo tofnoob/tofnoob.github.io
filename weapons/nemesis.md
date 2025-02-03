@@ -7,6 +7,8 @@ parent: Weapons
 # Nemesis (Venus)
 Benediction unit released at launch in version 1.0.
 
+![Nemesis Info](images/nemesis_info.jpg)
+
 ## Element Type  
 ![Volt Icon](images/volt.jpg) **Volt**  
 When the weapon is fully charged, the next attack will strongly paralyze targets for **1 second** and electrify them for **6 seconds**, removing all their buffs and dealing damage equal to **144% of ATK**. Targets can't receive any buffs for the next **6 seconds**.
@@ -14,8 +16,6 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 ## Elemental Resonance  
 - **Volt Resonance**: Increase **Volt ATK by 15%** and **Volt Resistance by 25%**. Activate by equipping **2 or more Volt weapons**. This set effect works in the off-hand slot. Cannot stack with effects of the same type.  
 - **Volt Benediction**: Increase the entire team's **Volt ATK by 5%** when **Benediction Resonance** is active.  
-
-![Nemesis Info](images/nemesis_info.jpg)
 
 ---
 
