@@ -14,7 +14,9 @@ coming soon...
 
 ## Aesperia gifts
 Farm free **daily** gifts from:
-1 - claw game (note that it seems bugged on mobile and doesn't grab properly)
+
+1 - Claw game (note that it seems bugged on mobile Android and doesn't grab properly)
+
 2 - the black market vendor
 
 Buy from
@@ -24,3 +26,7 @@ Buy from
 
 ## Vera gifts
 From here on you'll need to get World specific currency to buy gifts
+
+## Domain 9 gifts
+
+## Network gifts
