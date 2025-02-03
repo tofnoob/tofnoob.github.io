@@ -4,14 +4,21 @@ title: Nemesis
 parent: Weapons
 ---
 
-## Nemesis (Venus)
+# Nemesis (Venus)
 Benediction unit released at launch in version 1.0.
 
-## Kit and gameplay
+![Nemesis Info](images/nemesis_info.jpg)
+
+---
+
+## Kit and Gameplay
 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/btCemOMLq7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Guide and team comps
+---
+
+## Guide and Team Comps
+
 Nemesis as a unit brings a lot of burst and healing over time potential from her dodge, skill and discharge abilities. She can be used either as an on-field healer that provides necessary healing from her dodges, or a background healer that shows up in rough moments with a fully loaded kit. Her simple kit and easy gameplay are well suited for players that decide to try out Benediction.
 
 Unfortunately, outside of her healing ability, she doesn't bring much utility in the current state of the game which often forces us to rely on newer units in team building. It’s also worth mentioning that she's the only Benediction weapon that doesn't have any team buffs implemented in her kit.
@@ -24,11 +31,46 @@ For weapons that would cover her weaknesses, the best options are Brevey and Fio
 
 Lastly, when considering a trait to pair with her there are two good options. Brevey and Cocoritter. Cocoritter’s trait requires having Fiona in team to been able to spam discharges that activates her trait. Brevey works all the time and only requires being in Benediction resonance.
 
-## Team comps
-Here's some example teams to work towards. If you're a beginner then aim to get any standard benediction characters like Zero and Pepper.
+---
 
-![](images/nemesis_tc1.png)
+## Team Comps
 
-![](images/nemesis_tc2.png)
+Here are some example teams to work towards. If you're a beginner, aim to get any standard Benediction characters like Zero and Pepper.
 
-![](images/nemesis_tc3.png)
+![Team Comp 1](images/nemesis_tc1.png)  
+![Team Comp 2](images/nemesis_tc2.png)  
+![Team Comp 3](images/nemesis_tc3.png)  
+
+---
+
+## Trait
+
+### **1,200 Awakening Points**  
+**Nemesis: Metamorphosis**  
+After summoning an Electrode, deal volt damage equal to **60% of ATK** to all enemies within **30 meters** of the Electrode and heal all allies (including the user) within its range by **120% of ATK**.
+
+### **4,000 Awakening Points**  
+**Nemesis: Sublimation**  
+After summoning an Electrode, deal volt damage equal to **100% of ATK** to all enemies within **30 meters** of the Electrode and heal all allies (including the user) within its range by **200% of ATK**.
+
+---
+
+## Advancements
+
+| ★ | Effect |
+|---|--------|
+| **1** | After using Pulse Lock or Particle Beam Burst, creates 1 Electrode that immediately grants the user 5 stacks of Healing Chain Enhance. In addition, unleash a Healing Chain that heals nearby allies by **135% of the Wanderer's ATK**. |
+| **2** | Increase the current weapon's base ATK growth by **16%**. |
+| **3** | Every **6 seconds**, the Electrode will unleash **Ring Lightning**, dealing area damage equal to a maximum of **230% of ATK**. |
+| **4** | Increase the current weapon's base ATK growth by **32%**. |
+| **5** | After using Pulse Lock, increase the Wanderer's ATK by **(5 + (Number of Electrodes × 5))%** for **25 seconds**. |
+| **6** | Up to **2 Electrodes** can be active at the same time. Summoning more Electrodes will replace the ones furthest from the user. |
+
+---
+
+## Matrix Set
+
+| Set Bonus | Effect |
+|-----------|--------|
+| **2-piece** | When a target is being healed, their volt ATK is increased by **8% / 10% / 12% / 15%** for **20 seconds**. This effect does not stack, and only the highest level's effect is applied when obtained repeatedly. |
+| **4-piece** | When healing yourself or your Electrode, the target of healing gains a charge of **"Lightning"**. The next attack within **30 seconds** will cast lightning upon the target, dealing volt damage equal to **240% / 300% / 360% / 420% of volt ATK** (damage caused by Electrodes is reduced by **50%**). Cannot be triggered more than **once in 10 seconds**. "Lightning" charges do not stack. Only the highest level's effect is applied when obtained repeatedly. |
