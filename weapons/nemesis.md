@@ -51,18 +51,6 @@ Here are some example teams to work towards. If you're a beginner, aim to get an
 
 ---
 
-## Trait
-
-### **1,200 Awakening Points**  
-**Nemesis: Metamorphosis**  
-After summoning an Electrode, deal volt damage equal to **60% of ATK** to all enemies within **30 meters** of the Electrode and heal all allies (including the user) within its range by **120% of ATK**.
-
-### **4,000 Awakening Points**  
-**Nemesis: Sublimation**  
-After summoning an Electrode, deal volt damage equal to **100% of ATK** to all enemies within **30 meters** of the Electrode and heal all allies (including the user) within its range by **200% of ATK**.
-
----
-
 ## Advancements
 
 | ★ | Effect |
@@ -82,3 +70,15 @@ After summoning an Electrode, deal volt damage equal to **100% of ATK** to all e
 |-----------|--------|
 | **2-piece** | When a target is being healed, their volt ATK is increased by **8% / 10% / 12% / 15%** for **20 seconds**. This effect does not stack, and only the highest level's effect is applied when obtained repeatedly. |
 | **4-piece** | When healing yourself or your Electrode, the target of healing gains a charge of **"Lightning"**. The next attack within **30 seconds** will cast lightning upon the target, dealing volt damage equal to **240% / 300% / 360% / 420% of volt ATK** (damage caused by Electrodes is reduced by **50%**). Cannot be triggered more than **once in 10 seconds**. "Lightning" charges do not stack. Only the highest level's effect is applied when obtained repeatedly. |
+
+---
+
+## Trait
+
+### **1,200 Awakening Points**  
+**Nemesis: Metamorphosis**  
+After summoning an Electrode, deal volt damage equal to **60% of ATK** to all enemies within **30 meters** of the Electrode and heal all allies (including the user) within its range by **120% of ATK**.
+
+### **4,000 Awakening Points**  
+**Nemesis: Sublimation**  
+After summoning an Electrode, deal volt damage equal to **100% of ATK** to all enemies within **30 meters** of the Electrode and heal all allies (including the user) within its range by **200% of ATK**.
