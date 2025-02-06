@@ -45,7 +45,7 @@ Lastly, when considering a trait to pair with her there are two good options. Br
 
 Here are some example teams to work towards. If you're a beginner and have Nemesis, then aim to get any standard Benediction characters like Zero, Cocoritter and even Pepper.
 
-Note that these examples are assuming that Nemesis is the main on field unit.
+Note that these examples are assuming that Nemesis is the main on-field unit.
 
 ![Team Comp 1](images/nemesis_tc1.png)  
 ![Team Comp 2](images/nemesis_tc2.png)  
