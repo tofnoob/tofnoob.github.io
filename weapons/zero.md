@@ -49,7 +49,7 @@ Zero offers great flexibility in team-building. A low-cost option is running him
 
 - Nemesis instead of Cocoritter: This makes healing significantly easier, but at the cost of a major damage boost.
 
-- Brevey instead of Lyra: This is a strong alternative for new content, providing continuous off-field healing, Greying bite cleanse, and burst healing from her skill. Additionally, Metz's **<?>**passive off-field damage can also trigger Zero's orbs.
+- Brevey instead of Lyra: This is a strong alternative for new content, providing continuous off-field healing, Greying bite cleanse, and burst healing from her skill. Additionally, Brevey's passive off-field damage can also trigger Zero's orbs.
 
 - Fiona instead of Cocoritter: This allows for frequent Zero discharges while also granting allies damage immunity and extra healing from her dodge attacks.
 
