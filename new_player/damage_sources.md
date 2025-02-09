@@ -29,7 +29,10 @@ There are so many ways to increase power that it's easy to lose track of them al
 - Map exploration - this also gives you items that permanently boosts your HP and ATK
 
 # Temporary Damage sources
-- **Domain 9 boosters** - Dominium currency weekly farming required, but a _**very strong buff**_ for ALL players especially Free to Play!
+- **Domain 9 boosters** - Dominium currency weekly farming required, but a _**very strong buff**_ for ALL players especially Free to Play! Guide [TODO]
+  - Enhanced Blade Shot - increase ATK by **3.5%** for 7 days (does not stack with the regular Blade Shot)
+  - Enhancement Shot - incrase **base stats** of the equpped weapons and marices to as if they're at **max stars** for 7 days
+  - Piercing Shot - increase shatter by **15%** and aggro by **25%** for 7 days
 - Mia food buffs (stacks x3)
 - Crafted Food buffs
 - Mentorship Store serums
