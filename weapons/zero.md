@@ -42,7 +42,7 @@ While still a solid option, he is not recommended for solo content. However, whe
 Build Recommendations
 Since Zero spends a significant amount of time on the field, Cocoritter or Zero matrices work well. However, to maintain Cocoritter's full duration, you must continuously spawn healing orbs or use another off-field healing source. Alternatively, Zero can be built as an off-field unit, allowing him to equip matrices like Grey Fox, Fiona, or Brevey, though this setup requires another weapon on the team to use Claudia's 4 piece matrix.
 
-Claudia's matrices reduce the skill cooldown of other weapons when you hit enemies with the skill of the weapon equipped with these matrices. For example, when equipped on Fiona, they can reduce the cooldown of other weapons by 30 seconds at A3. Since Fiona can continuously spam her skill with every discharge, this allows Zero's skill to be cast every time Fiona's skill is used.
+Claudia's matrices reduce the skill cooldown of other weapons when you hit enemies with the skill of the weapon equipped with these matrices. For example, when equipped on Fiona, they can reduce the cooldown of other weapons by 30 seconds at A3 (3 seconds Cooldown reduction on every skill hit, and Fiona hits 10 times per skill). Since Fiona can continuously spam her skill with every discharge, this allows Zero's skill to be cast every time Fiona's skill is used.
 
 Team Compositions
 Zero offers great flexibility in team-building. A low-cost option is running him with Lyra and Cocoritter, which provides strong damage boosts, shielding, and healing over time. Thanks to Zero's fast charge rate, Cocoritter will also be able to discharge frequently.
