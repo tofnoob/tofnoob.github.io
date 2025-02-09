@@ -7,7 +7,7 @@ parent: Weapons
 # Zero (Negating Cube)  
 **Benediction unit from the standard banner.**  
 
-## Video Guide  
+## Kit and gameplay
 <iframe width="720" height="480" src="https://www.youtube.com/embed/x6dqtlqtE5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 ---
@@ -29,6 +29,33 @@ parent: Weapons
 
 - **Flame Benediction:**  
   - **+5% Flame ATK for the entire team** when Benediction Resonance is active.  
+
+---
+
+## Benediction guide
+Zero is the most balanced Benediction unit in Tower of Fantasy, possessing nearly all the key attributes of a support-class character. He plays a main-hand role in most teams, providing healing and buffs through his passive ability, which remains active even when he is swapped out for other weapons. This grants great flexibility in gameplay.
+
+As the saying goes, "Jack of all trades, master of none," the same applies to Zero. Despite having a large kit, his healing and shielding are insufficient to keep teammates' HP high at all times. The same issue arises with his passive damage boost in 8 player content, if a teammate fails to pick up his damage orb while his skill is on cooldown, its maximum value is lost.
+
+While still a solid option, he is not recommended for solo content. However, when paired with 2 other Benediction players, Zero excels as a buffer and supportive healer. His greatest utility lies in his discharge ability, which when timed correctly can prevent many ally deaths by providing 3 seconds of damage immunity. Personally, he is the most enjoyable support to play in the game, thanks to his unique attacks and fast charge rate.
+
+Build Recommendations
+Since Zero spends a significant amount of time on the field, Cocoritter or Zero matrices work well. However, to maintain Cocoritter's full duration, you must continuously spawn healing orbs or use another off-field healing source. Alternatively, Zero can be built as an off-field unit, allowing him to equip matrices like Grey Fox, Fiona, or Brevey, though this setup requires another weapon to use **Claudia's** <?>.
+
+Team Compositions
+Zero offers great flexibility in team-building. A low-cost option is running him with Lyra and Cocoritter, which provides strong damage boosts, shielding, and healing over time. Thanks to Zero's fast charge rate, Cocoritter will also be able to discharge frequently.
+
+- Nemesis instead of Cocoritter: This makes healing significantly easier, but at the cost of a major damage boost.
+
+- Brevey instead of Lyra: This is a strong alternative for new content, providing continuous off-field healing, Greying bite cleanse, and burst healing from her skill. Additionally, Metz's **<?>**passive off-field damage can also trigger Zero's orbs.
+
+- Fiona instead of Cocoritter: This allows for frequent Zero discharges while also granting allies damage immunity and extra healing from her dodge attacks.
+
+
+For 2 benediction team compositions, a fully optimized buffing setup with Zero, Lyra, and Grey Fox is also possible, but that will be covered in a separate guide.
+
+Traits
+Brevey's trait is the best option for any team with Zero, as he spends most of his time on the field. If using Grey Fox, remember to equip her trait. If you lack both weapons, Echo's trait is also a viable choice.
 
 ---
 
