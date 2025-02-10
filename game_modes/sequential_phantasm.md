@@ -41,15 +41,31 @@ Use various buffs to increase your power:
 - Mia food buff daily (x3 that can stack)
 - Food item buffs, i.e. purple food that give 2% element specific atk% for example
 - Mentorship Store Adrenaline Serum: Sequential Phantasm (+1000 atk)
-- Domain 9 "drugs" weekly purchase
+- Domain 9 boosters weekly purchase located in Tianhe Bazaar. Buy the boosters with Dominium currency.
   - Enhancement Shot (Jing Dan merchant) - Increase the base stats of the equipped weapons and Matrices to as if they're at max stars for 7 days.
   - Piercing Shot (Jing Dan merchant) - Regenerate 600 endurance. Increase shatter by 15% and aggro by 25% for 7 days.
-  - Enhanced Blade Shot (Jing Dan merchant)
+  - Enhanced Blade Shot (Jing Dan merchant) -  increase ATK by 3.5% for 7 days (does not stack with the regular Blade Shot)
 
-## Jing Dan merchange
-Located in Tianhe Bazaar. Buy the drugs with Dominium currency...but warning - this is heavy grind.
+## General guide
+TODO
 
-Some ways to get Dominium currency:
+## Specific levels tips
+For some levels there are special mechanics that increase the difficulty to some degree.
 
-- https://www.youtube.com/watch?v=ip95FHPRR9E
-- https://www.youtube.com/watch?v=FG4-Jtvb4n0
+### Level 6
+Boss name:
+Darkness: Fulmination
+
+The boss is chained to a platform and doesn't come down until 1:10 left on the clock!
+
+1. Early on in the fight defeat the spears
+2. Dodge the energy balls or hide behind a cube
+3. Unload everything you have when the boss comes down at 1:10
+
+## Level 8
+Boss name: (puppet)
+
+## Level 13
+Boss name:
+Darkness: Flywing
+
