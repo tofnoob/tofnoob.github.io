@@ -5,20 +5,15 @@ parent: Weapons
 ---
 
 # Zero (Negating Cube)  
-**Benediction unit from the standard banner.**  
+Benediction unit from the standard banner.
 
-## Kit and gameplay
-<iframe width="720" height="480" src="https://www.youtube.com/embed/x6dqtlqtE5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-
----
+![Zero Info](images/zero_info.jpg)
 
 ## Element Type  
 ![Flame Icon](images/flame.jpg) **Flame**  
 - When the weapon is fully charged, the next attack will **set the target on fire** for 8 seconds.  
 - Burning enemies take **58% of ATK as damage per second**.  
 - **Healing efficacy is reduced by 50%** on ignited targets.  
-
----
 
 ## Elemental Resonance  
 
@@ -29,6 +24,11 @@ parent: Weapons
 
 - **Flame Benediction:**  
   - **+5% Flame ATK for the entire team** when Benediction Resonance is active.  
+
+---
+
+## Kit and gameplay
+<iframe width="720" height="480" src="https://www.youtube.com/embed/x6dqtlqtE5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 ---
 
@@ -58,6 +58,18 @@ For 2 benediction team compositions, a fully optimized buffing setup with Zero, 
 
 Traits
 Brevey's trait is the best option for any team with Zero, as he spends most of his time on the field. If using Grey Fox, remember to equip her trait. If you lack both weapons, Echo's trait is also a viable choice.
+
+---
+
+## Team Comps
+
+Here are some example teams to work towards. If you're a beginner and have Zero, then aim to get any other standard Benediction characters like Cocoritter and Pepper.
+
+Note that these examples are assuming that Zero is the main on-field unit.
+
+![Team Comp 1](images/zero_tc1.png)  
+![Team Comp 2](images/zero_tc2.png)  
+![Team Comp 3](images/zero_tc3.png)  
 
 ---
 
