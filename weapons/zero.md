@@ -67,9 +67,17 @@ Here are some example teams to work towards. If you're a beginner and have Zero,
 
 Note that these examples are assuming that Zero is the main on-field unit.
 
+**IMPORTANT**
+Zero's matrices are one of the strongest for benediction as they give a huge party wide damage increase, especially at max advancement. Prioritise getting these matrices to max advancement when using Zero.
+
 ![Team Comp 1](images/zero_tc1.png)  
 ![Team Comp 2](images/zero_tc2.png)  
 ![Team Comp 3](images/zero_tc3.png)  
+
+### Trait options
+
+- Use GrayFox trait in teams running GrayFox.
+- If a teammate is already using GrayFox, pair Zero with Cocoritter trait.
 
 ---
 
