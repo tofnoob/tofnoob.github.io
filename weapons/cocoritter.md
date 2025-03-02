@@ -29,7 +29,20 @@ When the weapon is fully charged, the next attack will freeze targets for 2 seco
 
 ## Guide and Team Comps
 
+Cocoritter is a powerful healer and damage booster with an additional passive charge rate from her healing drone. She's a discharge unit that spends most of the time in the off hand, giving space for other weapons to have time in main hand. Her kit is very simple but requires a lot of skill to use it to its full potential.
 
+Despite how strong her kit is, she heavily relies on charge rate from other weapons and positioning of the player in fights. Her skill has a long 60s cooldown, and her discharge forces us to stay near our DPS for them to fully utilize it's healing and damage boost.
+
+In the current state of game, she's still a solid pick for most of the content, but some bosses deny usability of her discharge because of their high mobility. Even with her dispelling and crowd control immunity, she can't get rid of greybites. Therefore, using new benediction weapons for solo content is required.
+
+For her build, due to the fact that she's an off field discharger, matrices like Brevey, Grey Fox and Fiona will work perfectly. Not only will those options bring a lot of freedom for other weapon to shine with Cocoritter or Zero matrices in main hand, but also enable smooth transitions in gameplay.
+
+One word, Fiona. Cocoritter requires as much charge rate as possible and the best source of that is Fiona. This combo allows us to use Cocoritter discharge one after another, and provides our allies not only with a permanent boost and healing, but also with burst healing and charge rate from Fiona's dodge attacks and she can also be our main hand weapon. As other off field weapon, Lyra would fit well with her strong defence boosts and shielding. Brevey and Grey Fox could take both off and on field role in that team, provide burst healing outside Fiona's dodge, cleansing greybites and grant off field boosting for our teammates and on top of that boosting Cocoritter's healing potential. Zero would work well as on field weapon supporting Cocoritter's discharge healing with his orbs and high charge rate.
+
+As for the trait, Brevey is the way to go for all comps, but personally I would use her as a pair with Grey Fox’s trait. That duo not only perfectly covers each other's flaws, but also gameplay with them fells very smooth and running out of charge rate will never be a problem.
+
+A final small tip for gameplay, remember to use Cocoritter's dodge after every 2-3 discharges to resummon the healing drone and build additional charge rate.
+	
 ---
 
 ## Team Comps
