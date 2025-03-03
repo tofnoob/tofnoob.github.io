@@ -53,6 +53,10 @@ Here are some example teams to work towards.
 
 Note that these examples are assuming that Cocoritter is the main on-field unit.
 
+![Team Comp 1](images/cocoritter_tc1.png)
+![Team Comp 2](images/cocoritter_tc2.png)
+![Team Comp 3](images/cocoritter_tc3.png)
+
 ---
 
 ## Advancements
