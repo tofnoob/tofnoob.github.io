@@ -49,9 +49,7 @@ A final small tip for gameplay, remember to use Cocoritter's dodge after every 2
 
 ## Team Comps
 
-Here are some example teams to work towards.
-
-Note that these examples are assuming that Cocoritter is the main on-field unit.
+Here are some example teams to work towards. Cocoritter **would not** usually be the main on-field unit.
 
 ![Team Comp 1](images/cocoritter_tc1.png)
 ![Team Comp 2](images/cocoritter_tc2.png)
