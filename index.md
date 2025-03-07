@@ -3,17 +3,15 @@ title: Home
 layout: home
 nav_order: 1
 ---
-[Site under construction...]
-
 # Welcome
-Welcome to my guide page for Tower of Fantasy!
+Welcome to my guide page for Tower of Fantasy! I'm `HealingVision` from the `Whalesong` crew (EU).
 
 If you are completely new to the game then [start here](https://tofnoob.github.io/new_player/new_player.html).
 
 # Purpose
 This site is intended as a quick guide and reference to all things Tower of Fantasy. Its built from version 4.2 onwards so if you're a returning player then there have been some changes which I'll list out soon.
 
-# Current event reminders (<span style="color:red"><b>NEW!</b></span>) - Jan 2025
+# Current event reminders (<span style="color:red"><b>March 2025</b></span>) - 
 
 ## Account transfer from Tencent to Perfect World
 
@@ -21,26 +19,8 @@ This site is intended as a quick guide and reference to all things Tower of Fant
 
 Video guide [here](https://www.youtube.com/watch?v=iXrmnY0HNeE)
 
-## 4.6 SSR free pick box
+## 4.7 event guide
 
-Open day 5 of Gala fantasy box to get a SSR free pick!
-
-![image](https://github.com/user-attachments/assets/2dfc7ffa-2179-4aa5-8a9d-9b150b557c6c)
-
-![image](https://github.com/user-attachments/assets/93f41214-54a7-4c7e-95a5-6522d9380c3b)
-
-![image](https://github.com/user-attachments/assets/d27e9028-54c0-439e-b6b6-8c29863b3852)
-
-## 4.6 event calendar
-
-**note** - the final free pulls for Void Piercer come the day before the banner ends! So save most pulls until 22nd Feb.
-
-![image](https://github.com/user-attachments/assets/866f132d-019d-484a-93e7-6c10d606a20e)
-
-![image](https://github.com/user-attachments/assets/907e2852-1516-41ed-8579-ebb3214599b2)
-
-![image](https://github.com/user-attachments/assets/4d181050-12e0-414e-b21a-d73aa9379e3a)
-
-
+ - [Efficiently Farming the Version 4.7 Events](https://www.youtube.com/watch?v=JD7xZa_amGI)
 
 ----
