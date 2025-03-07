@@ -5,19 +5,17 @@ parent: Weapons
 ---
 
 # Cocoritter (Absolute Zero)
-Benediction unit released at launch in version 1.0.
-
-![Cocoritter Info](images/cocoritter_info.jpg)
+Frost Benediction unit released at launch in version 1.0.
 
 ## Element Type  
 ![Frost Icon](images/frost.jpg) **Frost**  
-When the weapon is fully charged, the next attack will freeze targets for 2 seconds and leave them frostbitten for 6 seconds. Breaking the ice shell causes additional damage equal to 151% of ATK. While frostbitten, the target's weapon charge rate is reduced by 50%.
+ - When the weapon is fully charged, the next attack will freeze targets for 2 seconds and leave them frostbitten for 6 seconds.
+ - Breaking the ice shell causes additional damage equal to 151% of ATK.
+ - While frostbitten, the target's weapon charge rate is reduced by 50%.
 
 ## Elemental Resonance  
-
--**Frost Resonance**: Activate by equipping 2 or more frost weapons. Increase frost ATK by 15% and frost resistance by 25%. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
-
--**Frost Benediction**: Increase the entire team's frost ATK by 5% when Benediction Resonance is active.
+ - **Frost Resonance**: Activate by equipping 2 or more frost weapons. Increase frost ATK by 15% and frost resistance by 25%. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
+ - **Frost Benediction**: Increase the entire team's frost ATK by 5% when Benediction Resonance is active.
 
 ---
 
