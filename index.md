@@ -23,4 +23,8 @@ Video guide [here](https://www.youtube.com/watch?v=iXrmnY0HNeE)
 
  - [Efficiently Farming the Version 4.7 Events](https://www.youtube.com/watch?v=JD7xZa_amGI)
 
+## Active codes
+
+0225REBORN
+
 ----
