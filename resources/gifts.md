@@ -5,9 +5,9 @@ parent: Resources
 ---
 
 # Gifts
-Gifts are used for **Awakening** a character, unlocking Traits and permanent damage boosts.
-
-Gifts are **World-specific**, so since patch 4, there are: **Aesperia, Vera, Domain 9, and Network gifts**.
+- Gifts are used for **Awakening** a character, unlocking Traits and permanent damage boosts.
+- The maximum Awakening points a single gift can add is either **80 or 100** depending on the character.
+- Gifts are **World-specific**, so since patch 4, there are: **Aesperia, Vera, Domain 9, and Network gifts**.
 
 ## 📌 Table of Contents
 - [How to Obtain Gifts](#how-to-obtain-gifts)
@@ -15,6 +15,8 @@ Gifts are **World-specific**, so since patch 4, there are: **Aesperia, Vera, Dom
   - [Farm Free Daily Gifts](#farm-free-daily-gifts)
   - [Buy Aesperia Gifts](#buy-aesperia-gifts)
 - [Vera Gifts](#vera-gifts)
+- [Domain9 Gifts](#domain9-gifts) [TODO]
+- [Network Gifts](#network-gifts) [TODO]
 
 ---
 
