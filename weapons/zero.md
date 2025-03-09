@@ -67,10 +67,11 @@ Here are some example teams to work towards. If you're a beginner and have Zero,
 
 Note that these examples are assuming that Zero is the main on-field unit.
 
-**IMPORTANT**
-Zero's matrices are one of the strongest for benediction as they give a huge party wide damage increase, especially at max advancement. Prioritise getting these matrices to max advancement when using Zero.
+- If you don't own Fiona, she can be replaced with Cocoritter
+- If you don't own Brevey she can be replaced with Lyra
+- Fiona's matrices can be replaced by P2 Lyra and P2 Nemesis or another set of P4 Zero or Cocoritter matrices
 
-![Team Comp 1](images/zero_tc1.png)  
+![Team Comp 1](images/zero_tc1.png)
 ![Team Comp 2](images/zero_tc2.png)  
 ![Team Comp 3](images/zero_tc3.png)  
 
