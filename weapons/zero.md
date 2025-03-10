@@ -72,13 +72,29 @@ Note that these examples are assuming that Zero is the main on-field unit.
 - Fiona's matrices can be replaced by P2 Lyra and P2 Nemesis or another set of P4 Zero or Cocoritter matrices
 
 ![Team Comp 1](images/zero_tc1.png)
-![Team Comp 2](images/zero_tc2.png)  
+
+In this team:
+1. Fiona is an off field buffer
+2. Brevey is an off field healer
+3. Zero is the on field buffer
+   
+![Team Comp 2](images/zero_tc2.png) 
+
+In this team:
+1. Zero is the on field buffer
+2. Lyra is an off field buffer
+3. Grey Fox is an off field buffer
+   
 ![Team Comp 3](images/zero_tc3.png)  
+
+In this team:
+1. Fiona is an off field buffer
+2. Lyria is an off field buffer
+3. Zero is the on field buffer
 
 ### Trait options
 
-- Use GrayFox trait in teams running GrayFox.
-- If a teammate is already using GrayFox, pair Zero with Cocoritter trait.
+- If you are using Grey Fox in a team with Zero, then it's better to equip Grey Fox's trait
 
 ---
 
