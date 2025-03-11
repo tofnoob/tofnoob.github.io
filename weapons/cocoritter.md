@@ -64,7 +64,7 @@ In this team:
 
 In this team:
 1. Fiona is an off field buffer.
-2. Zero is on field buffer.
+2. Zero is an on field buffer.
 3. Cocoritter is discharge unit.
    
 ![Team Comp 3](images/cocoritter_tc3.png)
