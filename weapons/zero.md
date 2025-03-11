@@ -56,14 +56,9 @@ Zero offers great flexibility in team-building. A low-cost option is running him
 
 For 2 benediction team compositions, a fully optimized buffing setup with Zero, Lyra, and Grey Fox is also possible, but that will be covered in a separate guide.
 
-Traits
-Brevey's trait is the best option for any team with Zero, as he spends most of his time on the field. If using Grey Fox, remember to equip her trait. If you lack both weapons, Echo's trait is also a viable choice.
-
----
-
 ## Team Comps
 
-Here are some example teams to work towards. If you're a beginner and have Zero, then aim to get any other standard Benediction characters like Cocoritter and Pepper.
+Here are some example teams to work towards. If you're a beginner and have Zero, then aim to get any other standard Benediction characters like Cocoritter, Nemesis or Pepper.
 
 Note that these examples are assuming that Zero is the main on-field unit.
 
@@ -74,29 +69,23 @@ Note that these examples are assuming that Zero is the main on-field unit.
 ![Team Comp 1](images/zero_tc1.png)
 
 In this team:
-1. Fiona is an off field buffer
-2. Brevey is an off field healer
-3. Zero is the on field buffer
+1. Fiona is an off field buffer.
+2. Brevey is an off field healer.
+3. Zero is the on field buffer.
    
 ![Team Comp 2](images/zero_tc2.png) 
 
 In this team:
-1. Zero is the on field buffer
-2. Lyra is an off field buffer
-3. Grey Fox is an off field buffer
+1. Zero is the on field buffer.
+2. Lyra is an off field buffer.
+3. Grey Fox is an off field buffer.
    
 ![Team Comp 3](images/zero_tc3.png)  
 
 In this team:
-1. Fiona is an off field buffer
-2. Lyria is an off field buffer
-3. Zero is the on field buffer
-
-### Trait options
-
-- If you are using Grey Fox in a team with Zero, then it's better to equip Grey Fox's trait
-
----
+1. Fiona is an off field buffer.
+2. Lyria is an off field buffer.
+3. Zero is the on field buffer.
 
 ## Advancements  
 
