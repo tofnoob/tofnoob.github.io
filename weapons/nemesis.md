@@ -47,9 +47,26 @@ Here are some example teams to work towards. If you're a beginner and have Nemes
 
 Note that these examples are assuming that Nemesis is the main on-field unit.
 
-![Team Comp 1](images/nemesis_tc1.png)  
-![Team Comp 2](images/nemesis_tc2.png)  
+![Team Comp 1](images/nemesis_tc1.png)
+
+In this team:
+1. Fiona is an off field buffer
+2. Brevey is off field healer
+3. Nemesis is on field healer
+   
+![Team Comp 2](images/nemesis_tc2.png) 
+
+In this team:
+1. Fiona is an off field buffer
+2. Lyria is an off field buffer
+3. Nemesis is on field healer
+   
 ![Team Comp 3](images/nemesis_tc3.png)  
+
+In this team:
+1. Fiona is an off field buffer
+2. Zero is the on field buffer
+3. Nemesis is on field healer
 
 ---
 
