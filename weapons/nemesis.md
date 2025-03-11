@@ -68,7 +68,7 @@ In this team:
 In this team:
 1. Fiona is an off field buffer.
 2. Zero is the on field buffer.
-3. Nemesis is off field healer.
+3. Nemesis is an off field healer.
 
 ---
 
