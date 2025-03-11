@@ -71,7 +71,7 @@ In this team:
 
 In this team:
 1. Fiona is an off field buffer.
-2. Brevey is on field healer
+2. Brevey is an on field healer
 3. Cocoritter is discharge unit.
 
 ---
