@@ -53,7 +53,7 @@ Here are some example teams to work towards. If you're a beginner and have Nemes
 
 In this team:
 1. Fiona is an off field buffer.
-2. Brevey is off field healer.
+2. Brevey is an off field healer.
 3. Nemesis is on field healer.
    
 ![Team Comp 2](images/nemesis_tc2.png) 
