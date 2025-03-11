@@ -58,7 +58,7 @@ Here are some example teams to work towards. If you're a beginner and have Cocor
 In this team:
 1. Fiona is an off field buffer.
 2. Cocoritter is a discharge unit.
-3. Grey Fox in on field healer.
+3. Grey Fox is the on field healer.
    
 ![Team Comp 2](images/cocoritter_tc2.png)
 
