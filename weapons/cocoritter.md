@@ -39,7 +39,7 @@ One word: Fiona. Cocoritter requires as much charge rate as possible, and the be
 
 As for off-field weapons, Lyra would be a great fit due to her strong defensive boosts and shielding. Brevey and Grey Fox could take on both off-field and on-field roles in this team, offering burst healing outside of Fiona's dodge, cleansing graybites, and providing off-field boosts for teammates. On top of that, they enhance Cocoritter's healing potential. Zero would also work well as an on-field weapon, supporting Cocoritter's discharge healing with his orbs and high charge rate.
 
-As for the trait, Brevey is the way to go for all comps, but personally I would use her as a pair with Grey Fox’s trait. That duo not only perfectly covers each other's flaws, but also gameplay with them fells very smooth and running out of charge rate will never be a problem.
+As for the trait, Brevey is the way to go for all comps, but personally I would use her as a pair with Grey Fox’s trait. That duo not only perfectly covers each other's flaws, but also gameplay with them fells very smooth and running out of charge rate will never be a problem. It's also possible to use Cocoritter's trait, but this would make it difficult to maintain the boost from both the trait and discharge. 
 
 A final small tip for gameplay, remember to use Cocoritter's dodge after every 2-3 discharges to resummon the healing drone and build additional charge rate.
 	
@@ -47,11 +47,32 @@ A final small tip for gameplay, remember to use Cocoritter's dodge after every 2
 
 ## Team Comps
 
-Here are some example teams to work towards. Cocoritter **would not** usually be the main on-field unit.
+Here are some example teams to work towards. If you're a beginner and have Cocoritter, then aim to get any other standard Benediction characters like Nemesis, Zero or Pepper.
+
+- If you don't own Fiona, she can be replaced with Cocoritter
+- If you don't own Brevey she can be replaced with Lyra
+- Fiona's matrices can be replaced by P2 Lyra and P2 Nemesis or another set of P4 Zero or Cocoritter matrices
 
 ![Team Comp 1](images/cocoritter_tc1.png)
+
+In this team:
+1. Fiona is an off field buffer.
+2. Cocoritter is a discharge unit.
+3. Grey Fox is the on field healer.
+   
 ![Team Comp 2](images/cocoritter_tc2.png)
+
+In this team:
+1. Fiona is an off field buffer.
+2. Zero is an on field buffer.
+3. Cocoritter is a discharge unit.
+   
 ![Team Comp 3](images/cocoritter_tc3.png)
+
+In this team:
+1. Fiona is an off field buffer.
+2. Brevey is an on field healer
+3. Cocoritter is a discharge unit.
 
 ---
 

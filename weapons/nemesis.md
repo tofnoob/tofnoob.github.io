@@ -43,13 +43,32 @@ Lastly, when considering a trait to pair with her there are two good options. Br
 
 ## Team Comps
 
-Here are some example teams to work towards. If you're a beginner and have Nemesis, then aim to get any standard Benediction characters like Zero, Cocoritter and even Pepper.
+Here are some example teams to work towards. If you're a beginner and have Nemesis, then aim to get any other standard Benediction characters like Cocoritter, Pepper or Zero.
 
-Note that these examples are assuming that Nemesis is the main on-field unit.
+- If you don't own Fiona, she can be replaced with Cocoritter.
+- If you don't own Brevey she can be replaced with Lyra.
+- Fiona's matrices can be replaced by P2 Lyra and P2 Nemesis or another set of P4 Zero or Cocoritter matrices.
+  
+![Team Comp 1](images/nemesis_tc1.png)
 
-![Team Comp 1](images/nemesis_tc1.png)  
-![Team Comp 2](images/nemesis_tc2.png)  
+In this team:
+1. Fiona is an off field buffer.
+2. Brevey is an off field healer.
+3. Nemesis is the on field healer.
+   
+![Team Comp 2](images/nemesis_tc2.png) 
+
+In this team:
+1. Fiona is an off field buffer.
+2. Lyria is an off field buffer.
+3. Nemesis is the on field healer.
+   
 ![Team Comp 3](images/nemesis_tc3.png)  
+
+In this team:
+1. Fiona is an off field buffer.
+2. Zero is the on field buffer.
+3. Nemesis is an off field healer.
 
 ---
 
