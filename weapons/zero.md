@@ -95,7 +95,6 @@ In this team:
 ### Trait options
 
 - If you are using Grey Fox in a team with Zero, then it's better to equip Grey Fox's trait
-- Teststs
 
 ---
 
