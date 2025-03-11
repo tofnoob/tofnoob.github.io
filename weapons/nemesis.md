@@ -61,7 +61,7 @@ In this team:
 In this team:
 1. Fiona is an off field buffer.
 2. Lyria is an off field buffer.
-3. Nemesis is on field healer.
+3. Nemesis is the on field healer.
    
 ![Team Comp 3](images/nemesis_tc3.png)  
 
