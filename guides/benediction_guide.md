@@ -37,4 +37,14 @@ Player 3 weapons - Fiona / Lyra / Icarus                    Player 3 matrices - 
 
 Here players can make changes more freely, mostly because some players don't own weapons or matrices described above. Planning and preparation play an important role in achieving the best possible results during runs.
 
-I
+It's also worth mention that some effects of weapons and matrices can stack with each other. Multiple Cocoritter's A3 damage and shatter buff can be provided in the same time, and her matrices can increase ATK by using them with different P2 and P4 combinations in some instances. Also Brevey add additional time while challenging Origin of War up to 2 times.
+
+Some bosses require completing specific mechanics in order for players to complete the levels in which they are placed. In many cases, players will need to adjust their teams to deal with them in the most effective way. Most frequently occurring in current patches, and weapons that can deal with them, are :
+
+1. Multihit objectives -> Fiona discharge and skill
+2. Boss healing mechanic -> Asurada discharge or Zero fully charged attack ( Flame elemental type )
+3. One shot mechanic -> Lyra and Grey Fox A5 passives, Zero discharge damage immunity
+4. Huge AoE damage form bosses -> Brevey Metz link and Nemesis dodge healing.
+5. Boss with huge shield bar -> Cocoritter A3
+
+Very important is to coordinate relics usage between all players. Great timing and usage of relics like Omnium Shield, Spacetime Rift, Alternate Destiny and Thalassic Heart will significantly increase probability of completing the content.
