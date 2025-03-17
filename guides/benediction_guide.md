@@ -18,11 +18,10 @@ So far the most popular builds for multi Benediction content are :
 
 ·· For 4 party content ··
 
-ID                 Weapons                                  Matrices                                        Trait
-
-Player 1           Fiona / Cocoritter / Grey Fox            P4 Fiona / P4 Cocoritter / P4 Grey Fox          Grey Fox
-
-Player 2           Fiona / Brevey / Lyra                    P4 Brevey / P4 Zero / P4 Zero                   Cocoritter
+| ID  | Weapons | Matrices | Trait |
+| --- | --- | --- | --- |
+| Player 1 | Fiona / Cocoritter / Grey Fox | P4 Fiona / P4 Cocoritter / P4 Grey Fox | Grey Fox |
+| Player 2 | Fiona / Brevey / Lyra | P4 Brevey / P4 Zero / P4 Zero | Cocoritter |
 
 Here players can make some adjustments like :
 
@@ -31,14 +30,11 @@ Here players can make some adjustments like :
 
 ·· For 8 party content ··
 
-
-ID                 Weapons                                  Matrices                                                                  Trait
-
-Player 1           Fiona / Cocoritter / Grey Fox            P4 Fiona / P4 Cocoritter / P4 Grey Fox                                    Player 1 trait - Grey Fox
-
-Player 2           Fiona / Brevey / Zero                    P4 Claudia / P4 Zero / P4 Zero                                            Player 2 trait - Brevey
-
-Player 3           Fiona / Lyra / Icarus                    P2 Yu Lan + P2 Saki Fuwa / P4 Brevey / P2 Grey Fox + P2 Nemeesis          Player 3 trait - Cocoritter
+| ID  | Weapons | Matrices | Trait |
+| --- | --- | --- | --- |
+| Player 1 | Fiona / Cocoritter / Grey Fox | P4 Fiona / P4 Cocoritter / P4 Grey Fox | Grey Fox |
+| Player 2 | Fiona / Brevey / Zero | P4 Claudia / P4 Zero / P4 Zero | Brevey |
+| Player 3 | Fiona / Lyra / Icarus | P2 Yu Lan + P2 Saki Fuwa / P4 Brevey / P2 Grey Fox + P2 Nemeesis | Cocoritter |
 
 Here players can make changes more freely, mostly because some players don't own weapons or matrices described above. Planning and preparation play an important role in achieving the best possible results during runs.
 
@@ -53,3 +49,5 @@ Some bosses require completing specific mechanics in order for players to comple
 5. Boss with huge shield bar -> Cocoritter A3
 
 Very important is to coordinate relics usage between all players. Great timing and usage of relics like Omnium Shield, Spacetime Rift, Alternate Destiny and Thalassic Heart will significantly increase probability of completing the content.
+
+
