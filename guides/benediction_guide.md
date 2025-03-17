@@ -18,9 +18,11 @@ So far the most popular builds for multi Benediction content are :
 
 ·· For 4 party content ··
 
-Player 1 weapons - Fiona / Cocoritter / Grey Fox            Player 1 matrices - P4 Fiona / P4 Cocoritter / P4 Grey Fox          Player 1 trait - Grey Fox
+ID                 Weapons                                  Matrices                                        Trait
 
-Player 2 weapons - Fiona / Brevey / Lyra                    Player 2 matrices - P4 Brevey / P4 Zero / P4 Zero                   Player 2 trait - Cocoritter
+Player 1           Fiona / Cocoritter / Grey Fox            P4 Fiona / P4 Cocoritter / P4 Grey Fox          Grey Fox
+
+Player 2           Fiona / Brevey / Lyra                    P4 Brevey / P4 Zero / P4 Zero                   Cocoritter
 
 Here players can make some adjustments like :
 
@@ -29,11 +31,14 @@ Here players can make some adjustments like :
 
 ·· For 8 party content ··
 
-Player 1 weapons - Fiona / Cocoritter / Grey Fox            Player 1 matrices - P4 Fiona / P4 Cocoritter / P4 Grey Fox                                    Player 1 trait - Grey Fox
 
-Player 2 weapons - Fiona / Brevey / Zero                    Player 2 matrices - P4 Claudia / P4 Zero / P4 Zero                                            Player 2 trait - Brevey
+ID                 Weapons                                  Matrices                                                                  Trait
 
-Player 3 weapons - Fiona / Lyra / Icarus                    Player 3 matrices - P2 Yu Lan + P2 Saki Fuwa / P4 Brevey / P2 Grey Fox + P2 Nemeesis          Player 3 trait - Cocoritter
+Player 1           Fiona / Cocoritter / Grey Fox            P4 Fiona / P4 Cocoritter / P4 Grey Fox                                    Player 1 trait - Grey Fox
+
+Player 2           Fiona / Brevey / Zero                    P4 Claudia / P4 Zero / P4 Zero                                            Player 2 trait - Brevey
+
+Player 3           Fiona / Lyra / Icarus                    P2 Yu Lan + P2 Saki Fuwa / P4 Brevey / P2 Grey Fox + P2 Nemeesis          Player 3 trait - Cocoritter
 
 Here players can make changes more freely, mostly because some players don't own weapons or matrices described above. Planning and preparation play an important role in achieving the best possible results during runs.
 
