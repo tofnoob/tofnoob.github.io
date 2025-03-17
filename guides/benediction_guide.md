@@ -4,15 +4,20 @@ title: Benediction guide
 parent: Guides and Tools
 ---
 
-## Multi Benediction
-As for current state of the game, most of content is done with more then one player using Benediction. There are several reason for that, but the most important are :
-1. Benediction player can boost more overall damage then when replaced with player with dps build
-2. Clearing mechanics needed to defeat some bosses.
-3. Increase survivability in high damage instances.
-   
-With implementing Graying Bite mechanic to game, demand for Benediction players with weapons like Brevey or Grey Fox is very high, cause only those can remove them from whole party, and other players can only remove them from themselves outside Benediction Resonance.
+## Multi Benediction teams
+In the current state of the game, most multiplayer content involves having more than one Benediction player. There are several reasons for this, but the most important ones are:
 
-There are some very important rules how to build comps for each player in multi Benediction content. The most important is to start with Fiona. Numbers of those weapons should be equal to numbers of dps players in your team, and Benediction player with higher ATK should link player that deals more damage. In team with only one dps player, Benediction with Fiona and Grey Fox matrices should only use Fiona to link that player. Second is buff stacking mechanic. Some weapons and matrices effects can stack with each others, and some only works once at the same time. Making preparation before giving a try to clear content makes it easier to make adjustments to teams and change parts that can help finish instances. Third is to divide the roles between each Benediction players. It's easier to split roles on healer and buffer(s) to make sure everyone can focus on doing assigned task and fully utilize strength of every equipped weapons.
+1. Benediction players can boost overall team damage more effectively than if they were replaced with a DPS player.
+2. Certain boss mechanics may require Benediction players to succeed.
+3. They increase survivability in high-damage instances.
+   
+With the introduction of the **Graying Bite** mechanic, the demand for Benediction players with weapons like **Brevey** or **Grey Fox** has significantly increased. This is because only these weapons can remove Graying Bite from the entire party, while other players can only remove it from themselves outside of Benediction Resonance.
+
+When building team compositions for multi-Benediction content, there are several important rules to follow:
+
+1. **Start with Fiona**: The number of Fiona weapons in your team should match the number of DPS players. Additionally, the Benediction player with the higher ATK should link to the player who deals the most damage. In a team with only one DPS player, the Benediction player with Fiona and Grey Fox matrices should use Fiona to link to that player.
+2. **Buff Stacking Mechanics**: Some weapon and matrix effects can stack with each other, while others do not. Preparing and testing your team composition before attempting to clear content makes it easier to adjust and optimize your setup for success.
+3. **Role Division**: It’s important to divide roles between Benediction players. Splitting responsibilities into dedicated healers and buffers ensures that each player can focus on their assigned task and fully utilize the strengths of their equipped weapons.
 
 So far the most popular builds for multi Benediction content are :
 
