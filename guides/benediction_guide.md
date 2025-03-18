@@ -12,7 +12,7 @@ In the current state of the game, most multiplayer content involves having more 
 2. Certain boss mechanics may require Benediction players to succeed.
 3. They increase survivability in high-damage instances.
    
-With the introduction of the **Graying Bite** mechanic, the demand for Benediction players with weapons like **Brevey** or **Grey Fox** has significantly increased. This is because only these weapons can remove Graying Bite from the entire party, while other players can only remove it from themselves outside of Benediction Resonance.
+With the introduction of the **Graying Bite** mechanic, the demand for Benediction players with weapons like **Brevey** or **Grey Fox** has significantly increased. This is because only these weapons can remove Graying Bite from the entire party, while other players can only remove it from themselves outside of Benediction Resonance by using Fiona which is very weak compared to the new weapons.
 
 When building team compositions for multi-Benediction content, there are several important rules to follow:
 
