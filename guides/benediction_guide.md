@@ -42,7 +42,7 @@ Here players can make some adjustments like:
 | --- | --- | --- | --- |
 | Player 1 | Fiona / Cocoritter / Grey Fox | P4 Fiona / P4 Cocoritter / P4 Grey Fox | Grey Fox |
 | Player 2 | Fiona / Brevey / Zero | P4 Claudia / P4 Zero / P4 Zero | Brevey |
-| Player 3 | Fiona / Lyra / Icarus | P2 Yu Lan + P2 Saki Fuwa / P4 Brevey / P2 Grey Fox + P2 Nemeesis | Cocoritter |
+| Player 3 | Fiona / Lyra / Icarus | P2 Yu Lan + P2 Saki Fuwa / P4 Brevey / P2 Grey Fox + P2 Nemesis | Cocoritter |
 
 In 8 party content, players have more flexibility to make changes, especially if some players do not own the weapons or matrices listed above. Planning and preparation play a crucial role in achieving the best possible results during runs.
 
