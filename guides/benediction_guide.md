@@ -46,6 +46,8 @@ Here players can make some adjustments like:
 
 In 8 party content, players have more flexibility to make changes, especially if some players do not own the weapons or matrices listed above. Planning and preparation play a crucial role in achieving the best possible results during runs.
 
+With the introduction of the new **Synesthesia** system for **Lin**, it is very common for players to swap one Fiona for Lin, or add a fourth Benediction to act as her carrier. The reason for this change is that the last level of her Synesthesia makes her A6 23% Attack buff while in Moonlight Realm also applies to all teammates.
+
 It's also worth noting that some weapon and matrix effects can stack with each other. For example:
 
 - Multiple Cocoritter A3 damage and shatter buffs can be active simultaneously.
