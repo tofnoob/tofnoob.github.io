@@ -87,4 +87,18 @@ _Coming soon..._
 ---
 
 ## Vera Gifts
-_From here on, you'll need **World-specific currency** to buy gifts._
+_You'll need **World specific currency** to buy gifts._
+
+---
+
+## Domain9 Gifts
+_You'll need **World specific currency** to buy gifts._
+
+---
+
+## Network Gifts
+_You'll need **World specific currency** to buy gifts._
+
+**Norn** is the currency used, which you can get by collecting data sources (floating blue balls) around the map and in daily commissions then converting them to Norn at **yellow** terminals dotted around the main Network map.
+
+---
