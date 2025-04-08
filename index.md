@@ -17,14 +17,15 @@ This site is intended as a quick guide and reference to all things Tower of Fant
 
 **MUST DO THIS** as soon as you can to make sure that you don't lost your account!
 
-Video guide [here](https://www.youtube.com/watch?v=iXrmnY0HNeE)
+Video guide [here]([https://www.youtube.com/watch?v=iXrmnY0HNeE](https://www.youtube.com/watch?v=qqcpuDkcBsg))
 
-## 4.7 event guide
+## 4.8 event guide
 
  - [Efficiently Farming the Version 4.7 Events](https://www.youtube.com/watch?v=JD7xZa_amGI)
 
 ## Active codes
 
+408interstellar - **NEW!**
 0225REBORN
 
 ----
