@@ -1,3 +1,9 @@
+---
+layout: default
+title: Test
+parent: Checklists
+---
+
 <details>
 
 <summary>Tips for collapsed sections</summary>
