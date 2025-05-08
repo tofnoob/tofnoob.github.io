@@ -2,6 +2,10 @@
 layout: default
 title: Test
 parent: Checklists
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+  input: GFM
 ---
 
 <details>
