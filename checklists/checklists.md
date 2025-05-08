@@ -8,9 +8,7 @@ nav_order: 2
 # Checklists
 There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF, so it becomes too difficult to remember everything.
 
-<details>
-
-<summary><strong>Daily</strong></summary>
+## Daily
 
 - [ ] Daily Bounty
 - [ ] Mia's Kitchen
@@ -29,11 +27,7 @@ There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF
 - [ ] Training console - for Commissary Points store
 - [ ] Mirroria daily fun zone minigames
 
-</details>
-
-<details>
-
-<summary><strong>Weekly</strong></summary>
+## Weekly
 
 - [ ] Raid [challenge] (Monday)
 - [ ] Final Trial [normal] (Monday)
@@ -56,11 +50,7 @@ There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF
 - [ ] Network Cipher Exchange - hacking game (Indoor zone - Observation Deck Subway Station)
 - [ ] Network Norn quests
 
-</details>
-
-<details>
-
-<summary><strong>Monthly</strong></summary>
+## Monthly
 
 - [ ] Artificial Island monthly rewards (Special voucher x4)
 - [ ] Void Abyss
@@ -70,11 +60,7 @@ There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF
 - [ ] Break from Destiny - 1 game
 - [ ] Clotho Supply Pod claim & reset
 
-</details>
-
-<details>
-
-<summary><strong>One-off</strong></summary>
+## One-off
 
 - [ ] Evolution Vanguard
 - [ ] Ruins
@@ -82,5 +68,3 @@ There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF
 - [ ] Domain 9 statue upgrades
 - [ ] Domain 9 Four Symbol Cauldron
 - [ ] Network Dandelion Redemption Store (Rocken Park)
-
-</details>
