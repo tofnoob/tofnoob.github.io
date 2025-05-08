@@ -9,7 +9,7 @@ nav_order: 2
 There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF, so it becomes too difficult to remember everything.
 
 
-{% tabs %}
+{% tabs test %}
 {% tab Alpha %}
 - Test A
 {% endtab %}
