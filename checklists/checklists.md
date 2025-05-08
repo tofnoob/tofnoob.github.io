@@ -10,12 +10,14 @@ There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF
 
 <details>
 <summary><strong>Daily</strong></summary>
+<div>
 
 - [ ] Daily Bounty
 - [ ] Mia's Kitchen
 - [ ] Joint Operation
 - [ ] Sign-in reward
-- [ ] Artificial Island vendor
+- [ ] Artificial Island vendor check
+- [ ] Artificial Island boss rewards x4
 - [ ] Domain 9 trading/price check (Tianha Bazaar)
 - [ ] Domain 9 elixir pills price check/purchase (Tianha Bazaar)
 - [ ] Appointed Research
@@ -27,10 +29,12 @@ There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF
 - [ ] Training console - for Commissary Points store
 - [ ] Mirroria daily fun zone minigames
 
+</div>
 </details>
 
 <details>
 <summary><strong>Weekly</strong></summary>
+<div>
 
 - [ ] Raid [challenge] (Monday)
 - [ ] Final Trial [normal] (Monday)
@@ -38,33 +42,42 @@ There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF
 - [ ] Commissary - Crystal Dust Store weekly limited items
 - [ ] Commissary - Spacetime Store weekly limited items
 - [ ] Commissary - Suppport Store weekly limited items
+- [ ] Mentorship rewards & store
 - [ ] Bygone Phantasm
 - [ ] Sequential Phantasm
 - [ ] Any World Boss x10
 - [ ] Claire's Dream Machine x3
 - [ ] Potent Omnium Crystal weekly exchange x1 (Resource Dealer)
+- [ ] Mirroria M-Sec missions x3 (Security Force)
 - [ ] Domain 9 Gift Merchant - Hua Yueli weekly limited gifts (Hexa County)
 - [ ] Domain 9 Gift Merchant - Qiu Yao weekly limited gifts (Nona County)
+- [ ] Domain 9 Dominium quests
 - [ ] Network Gift Merchant - Alicia weekly limited gifts & emotes (Astra Resort)
 - [ ] Network Trade Warehouse - Rail NPC Mecha upgrades (Gesthos smart city)
 - [ ] Network Cipher Exchange - hacking game (Indoor zone - Observation Deck Subway Station)
+- [ ] Network Norn quests
 
+</div>
 </details>
 
 <details>
 <summary><strong>Monthly</strong></summary>
+<div>
 
+- [ ] Artificial Island monthly rewards (Special voucher x4)
 - [ ] Void Abyss
 - [ ] Origin of War
 - [ ] Evolution Frontier
-- [ ] PvP Arena
-- [ ] Break from Destiny
+- [ ] PvP Arena - 1 game
+- [ ] Break from Destiny - 1 game
 - [ ] Clotho Supply Pod claim & reset
 
+</div>
 </details>
 
 <details>
 <summary><strong>One-off</strong></summary>
+<div>
 
 - [ ] Evolution Vanguard
 - [ ] Ruins
@@ -73,4 +86,5 @@ There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF
 - [ ] Domain 9 Four Symbol Cauldron
 - [ ] Network Dandelion Redemption Store (Rocken Park)
 
+</div>
 </details>
