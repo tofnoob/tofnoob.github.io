@@ -38,7 +38,8 @@ There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF
 - [ ] Mentorship rewards & store
 - [ ] Bygone Phantasm
 - [ ] Sequential Phantasm
-- [ ] Any World Boss x10
+- [ ] Any World Boss x10 for Titan Augmentation materials
+- [ ] Mecha World Boss for 
 - [ ] Claire's Dream Machine x3
 - [ ] Potent Omnium Crystal weekly exchange x1 (Resource Dealer)
 - [ ] Mirroria M-Sec missions x3 (Security Force)
