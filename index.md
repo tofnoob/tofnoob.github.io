@@ -24,6 +24,7 @@ It's not fully completed yet, and I will later add in explanations for each item
 
 ## Active codes
 
+- 513kailosector **NEW!**
 - toflyncis **NEW!**
 - tofinspace **NEW!**
 - traveltokailo **NEW!**
