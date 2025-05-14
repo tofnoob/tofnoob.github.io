@@ -22,6 +22,12 @@ It's not fully completed yet, and I will later add in explanations for each item
 - Login to get 400DC by mail
 - Do daily tasks from the various menus for more rewards, e.g. scratchcard and special event pages
 
+All twitch drop rewards
+
+![image](https://github.com/user-attachments/assets/eb3a05fb-e61d-4031-9063-5515322909db)
+
+Use this new link for PC https://tof.perfectworld.com/net/250514twitch/en/index.html
+
 ## Active codes
 
 - 513kailosector **NEW!**
