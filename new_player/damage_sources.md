@@ -20,6 +20,7 @@ There are so many ways to increase power that it's easy to lose track of them al
   - Gear augument (titan gear + titan stat)
   - Basic gear 8 piece activation (bonus stats when ALL non-Vera gear reaches a set enhancement level like 10, 15, 20 etc.)
   - Supercomputing Evolution
+  - Space Support System (Cosmic system menu)
 - Lin Synesthesia weapon upgrade
   - A2 permanent 3% elemental damage increase
   - A5 permanent 4% elemental damage increase
