@@ -21,6 +21,7 @@ It's not fully completed yet, and I will later add in explanations for each item
 - Twitch drops are back from today! So watch a participating streamer to get rewards like Red pulls and Dark crystals. E.g. gateoo
 - Login to get 400DC by mail
 - Do daily tasks from the various menus for more rewards, e.g. scratchcard and special event pages
+- New upgrade system Space Support System (Cosmic system menu)
 
 All twitch drop rewards
 
