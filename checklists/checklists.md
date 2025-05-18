@@ -15,7 +15,6 @@ There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF
 - [ ] Joint Operation
 - [ ] Sign-in reward
 - [ ] Artificial Island vendor check
-- [ ] Artificial Island boss rewards x4
 - [ ] Domain 9 trading/price check (Tianha Bazaar)
 - [ ] Domain 9 elixir pills price check/purchase (Tianha Bazaar)
 - [ ] Appointed Research
@@ -43,6 +42,7 @@ There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF
 - [ ] Claire's Dream Machine x3
 - [ ] Potent Omnium Crystal weekly exchange x1 (Resource Dealer)
 - [ ] Mirroria M-Sec missions x3 (Security Force)
+- [ ] Artificial Island boss rewards x4
 - [ ] Domain 9 Gift Merchant - Hua Yueli weekly limited gifts (Hexa County)
 - [ ] Domain 9 Gift Merchant - Qiu Yao weekly limited gifts (Nona County)
 - [ ] Domain 9 Dominium quests
