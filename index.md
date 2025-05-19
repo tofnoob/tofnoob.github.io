@@ -31,10 +31,11 @@ Use this new link for PC https://tof.perfectworld.com/net/250514twitch/en/index.
 
 ## Active codes
 
+- tofver5.0 **NEW!**
 - 513kailosector **NEW!**
-- toflyncis **NEW!**
-- tofinspace **NEW!**
-- traveltokailo **NEW!**
+- toflyncis
+- tofinspace
+- traveltokailo
 - 408interstellar
 - 0225REBORN
 
