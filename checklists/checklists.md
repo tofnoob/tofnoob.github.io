@@ -35,7 +35,9 @@ There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF
 - [ ] Commissary - Crystal Dust Store weekly limited items
 - [ ] Commissary - Spacetime Store weekly limited items
 - [ ] Commissary - Suppport Store weekly limited items
+- [ ] Commissary - Multiverse Store weekly limited items
 - [ ] Mentorship rewards & store
+- [ ] Multiverse Hunt x4
 - [ ] Bygone Phantasm
 - [ ] Sequential Phantasm
 - [ ] Any World Boss x10 for Titan Augmentation materials
