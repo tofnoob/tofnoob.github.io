@@ -40,7 +40,8 @@ There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF
 - [ ] Multiverse Hunt x4
 - [ ] Bygone Phantasm
 - [ ] Sequential Phantasm
-- [ ] Any World Boss x10 for Titan Augmentation materials
+- [ ] Any normal World Boss x10 for Augment module box V
+- [ ] Any Mecha/Kailo World Boss x10 for Augment module box VI (Gunner, All seeing eye, Queen Xeno)
 - [ ] Mecha World Boss for 
 - [ ] Claire's Dream Machine x3
 - [ ] Potent Omnium Crystal weekly exchange x1 (Resource Dealer)
