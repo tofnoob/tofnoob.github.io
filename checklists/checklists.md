@@ -23,6 +23,7 @@ There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF
 - [ ] Aesperia Black Market free gift x1 (Hopkins NPC)
 - [ ] Mirroria vending machine gift purchase
 - [ ] Returnee points - 1500 support points & 600 returnee points (Raid or Void Abyss)
+- [ ] Void Abyss - claim free Void energy
 - [ ] Training console - for Commissary Points store
 - [ ] Mirroria daily fun zone minigames
 
