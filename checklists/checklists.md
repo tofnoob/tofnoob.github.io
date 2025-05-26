@@ -43,6 +43,7 @@ There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF
 - [ ] Any regular World Boss x10 for Augment module box V (Aesperia, Vera, Domain 9, Network)
 - [ ] Any Mecha/Kailo World Boss x10 for Augment module box VI (Gunner, All seeing eye, Queen Xeno)
 - [ ] Claire's Dream Machine x3
+- [ ] Void Abyss - claim free Void energy
 - [ ] Potent Omnium Crystal weekly exchange x2 (Resource Dealer)
 - [ ] Mirroria M-Sec missions x3 (Security Force)
 - [ ] Artificial Island boss rewards x4
@@ -50,11 +51,12 @@ There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF
 - [ ] Domain 9 Gift Merchant - Hua Yueli weekly limited gifts (Hexa County)
 - [ ] Domain 9 Gift Merchant - Qiu Yao weekly limited gifts (Nona County)
 - [ ] Domain 9 Dominium quests
+- [ ] Network convert Data Sources to Norn at Yellow terminals
 - [ ] Network Gift Merchant - Alicia weekly limited gifts & emotes (Astra Resort)
 - [ ] Network Trade Warehouse - Rail NPC Mecha upgrades (Gesthos smart city)
 - [ ] Network Cipher Exchange - hacking game (Indoor zone - Observation Deck Subway Station)
 - [ ] Network Norn quests
-- [ ] Void Abyss - claim free Void energy
+- [ ] Kailo Anchor Supply Shop
 
 ## Monthly
 
@@ -75,3 +77,5 @@ There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF
 - [ ] Domain 9 Four Symbol Cauldron
 - [ ] Network Dandelion Redemption Store (Rocken Park)
 - [ ] Network Hacker game
+- [ ] Kailo Amos shop
+- [ ] Kailo targets/quests (TODO)
