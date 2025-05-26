@@ -74,3 +74,4 @@ There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF
 - [ ] Domain 9 statue upgrades
 - [ ] Domain 9 Four Symbol Cauldron
 - [ ] Network Dandelion Redemption Store (Rocken Park)
+- [ ] Network Hacker game
