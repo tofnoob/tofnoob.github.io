@@ -56,6 +56,7 @@ There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF
 - [ ] Network Trade Warehouse - Rail NPC Mecha upgrades (Gesthos smart city)
 - [ ] Network Cipher Exchange - hacking game (Indoor zone - Observation Deck Subway Station)
 - [ ] Network Norn quests
+- [ ] Network Norn minigames
 - [ ] Kailo Anchor Supply Shop
 
 ## Monthly
@@ -73,6 +74,7 @@ There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF
 - [ ] Evolution Vanguard
 - [ ] Ruins
 - [ ] Mirroria Gachapon
+- [ ] Innars red nucleus hidden quest
 - [ ] Domain 9 statue upgrades
 - [ ] Domain 9 Four Symbol Cauldron
 - [ ] Network Dandelion Redemption Store (Rocken Park)
