@@ -48,6 +48,7 @@ There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF
 - [ ] Potent Omnium Crystal weekly exchange x2 (Resource Dealer)
 - [ ] Mirroria M-Sec missions x3 (Security Force)
 - [ ] Artificial Island boss rewards x4
+- [ ] Artificial Island Weapon Augment boxes and materials purchase
 - [ ] Domain 9 Gift Merchant - Hua Yueli weekly limited gifts (Hexa County)
 - [ ] Domain 9 Gift Merchant - Qiu Yao weekly limited gifts (Nona County)
 - [ ] Domain 9 Dominium quests
@@ -62,12 +63,12 @@ There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF
 - [ ] Void Abyss
 - [ ] Origin of War
 - [ ] Evolution Frontier
-- [ ] PvP Arena - 1 game
 - [ ] Break from Destiny - 1 game
 - [ ] Clotho Supply Pod claim & reset
 
 ## One-off
 
+- [ ] PvP Arena - 1 game
 - [ ] Evolution Vanguard
 - [ ] Ruins
 - [ ] Mirroria Gachapon
