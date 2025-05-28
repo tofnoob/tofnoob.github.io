@@ -14,11 +14,11 @@ parent: Data Mining
 | Microreactor                               | 50  | 14.25%  |
 | SSR/SR Relics                             | 46  | 13.11%  |
 | Adv Module & Boosters                      | 19  | 5.41%   |
-| Shitty Matrices                            | 18  | 5.13%   |
+| Standard Matrices                            | 18  | 5.13%   |
 | Gold & Black Nucs                         | 13  | 3.70%   |
 | Red & Black Nucs                          | 10  | 2.85%   |
-| Proof of Purchase & shit matrices          | 12  | 3.42%   |
-| Voucher & Matrices                         | 5   | 1.42%   |
+| Proof of Purchase                         | 12  | 3.42%   |
+| Special Voucher                           | 5   | 1.42%   |
 | **TOTAL:**                                 | **351** |         |
 
 Source - Vilehead
