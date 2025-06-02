@@ -34,6 +34,7 @@ Commonly referred to as DC, this is the main gacha currency which is the equival
 - Follow Us
 - Wanderer's log
 - Share pull (save image)
+- Weapon trials
 
 # How to obtain (paid)
 - Monthly battle pass
