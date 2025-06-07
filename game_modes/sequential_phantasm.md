@@ -39,8 +39,9 @@ For Altered it's a bit lower at 8 (Dec 2024).
 Use various buffs to increase your power:
 
 - Mia food buff daily (x3 that can stack)
-- Food item buffs, i.e. purple food that give 2% element specific atk% for example
+- Food item buffs with nutripaste (Kailo) or wine (Mirroria) being the best choices
 - Mentorship Store Adrenaline Serum: Sequential Phantasm (+1000 atk)
+- Space support system buffs specifically for bygone modes, or element specific
 - Domain 9 boosters weekly purchase located in Tianhe Bazaar. Buy the boosters with Dominium currency.
   - Enhancement Shot (Jing Dan merchant) - Increase the base stats of the equipped weapons and Matrices to as if they're at max stars for 7 days.
   - Piercing Shot (Jing Dan merchant) - Regenerate 600 endurance. Increase shatter by 15% and aggro by 25% for 7 days.
@@ -65,7 +66,12 @@ The boss is chained to a platform and doesn't come down until 1:10 left on the c
 ## Level 8
 Boss name: (puppet)
 
+When the boss is down to the last bar it will trap you in it's "cage" to delay you and become invincible for about 1 minute, so you need a load of dps to finish off the last bar. Just kill the phantom and dodge attacks during this phase.
+
+Small tip - at the end of the delay stage, you can use a saved ultimate to escape it a tiny bit quicker.
+
 ## Level 13
 Boss name:
 Darkness: Flywing
 
+Annoying since there's 2 bosses to fight and fly around the whole arena. Target any one of them and learn their patterns as they move to the edge of the arena then back to the middle. Stay near the centre when possible to fight any one of them to avoid moving around too much.
