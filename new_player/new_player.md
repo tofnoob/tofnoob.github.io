@@ -8,7 +8,7 @@ nav_order: 2
 # New player
 Welcome to the start of your journey in Tower of Fantasy! It's an open world MMORPG so is a bit more complicated than Hoyoverse games, but you'll soon get used to it and understand everything with the help of this guide and the community.
 
-If you want to quickly get a video overview then I'd recommend watching Touch Me Not's 2024 guide on YouTube [here](https://www.youtube.com/watch?v=o2F5f_q9BVw).
+If you want to quickly get a video overview then I'd recommend watching Elendi's 2025 guide on YouTube [here](https://www.youtube.com/watch?v=_d9T0LgSRVY) or Touch Me Not's 2024 guide [here](https://www.youtube.com/watch?v=o2F5f_q9BVw).
 
 For new players I'd recommend to:
 - focus on the main story (use the **_skip_** button if you want) and do some exploration of the Worlds
