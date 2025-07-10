@@ -115,6 +115,8 @@ For a video guide then see Gateoo's guide [here](https://youtu.be/Up2-epfHWWs?li
 
 <ins>**Phantom Dolphin x10**</ins>
 
+Follow them around and they'll drop the horn item as they swim around. Defeat them and they should drop another.
+
 The snout snail farming route should provide enough materials.
 
 ### Domain 9
