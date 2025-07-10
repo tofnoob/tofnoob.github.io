@@ -85,25 +85,34 @@ There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF
 
 ### Vera
 
-#### Innars
+#### Potent Omnium Crystal weekly exchange
 
-##### Potent Omnium Crystal weekly exchange
-
-You can get 1 per week from the NPC Ranni in Innars. It may be worth doing now that we get double Potent Omnium Crystals in order to upgrade your Supressor faster.
+You can get 1 per week from the NPC Ranni in Innars. It may be worth doing now that we get double weekly Potent Omnium Crystals in order to upgrade your Supressor faster.
 
 To reach Ranni, go to the `Spacerift: Innars` teleporter on level 2 of Innars. Then follow the route in red to go down the stairs on the left and take the first right.
 
+![](images/innars_ranni_route.png)
+
 You'll need 3 items to exchange and I've written on the image which creature to farm it from.
 
-Snout Snail x20
+![](images/innars_ranni_store.png)
+
+<ins>**Snout Snail x20**</ins>
+
 You must use a **Physical** weapon to kill the snail for the correct item drop, otherwise you'll get a different item. Also make sure your smart servant doesn't kill the snail if it's not doing Physical damage.
 
-North East of Ranni you'll find the teleport `Spacerift: Dark Source Sidewall`. From here follow the route as shown below where you can find plenty of snails, as well as dolphins and sharks! I'd recommend going to the end of the route then going back to the teleport to find extra enemies that appear from hiding or respawn. One run is enough to get the 20 snail items.
+North East of Ranni you'll find the teleport `Spacerift: Dark Source Sidewall`. From here, follow the route as shown below where you can find plenty of snails, as well as dolphins and sharks! I'd recommend going to the end of the route then going back towards the teleporter to find extra enemies that appear from hiding or respawn. One run is enough to get the 20 snail items.
 
-Skull Shark x15
+![](images/innars_snout_snail_route.png)
+
+<ins>**Skull Shark x15**</ins>
+
 You can AFK farm these at the boar icon spot below, near the `Spacerift: Central Secluded Rock` teleporter. For a video guide then see Gateoo's guide [here](https://youtu.be/Up2-epfHWWs?list=PLexT4z6TXJCGFO9A7wQ4YvDev5Cto2JSF&t=720)
 
-Phantom Dolphin x10
+![](images/innars_shark_farm.png)
+
+<ins>**Phantom Dolphin x10**</ins>
+
 The snout snail farming route should provide enough materials.
 
 ### Domain 9
