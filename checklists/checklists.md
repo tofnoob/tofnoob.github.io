@@ -31,7 +31,6 @@ There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF
 - [ ] Raid [challenge] (Monday)
 - [ ] Final Trial [normal] (Monday)
 - [ ] Claim weekly Crewbox
-- [ ] Accept crew missions x4
 - [ ] Commissary - Crystal Dust Store weekly limited items
 - [ ] Commissary - Spacetime Store weekly limited items
 - [ ] Commissary - Suppport Store weekly limited items
