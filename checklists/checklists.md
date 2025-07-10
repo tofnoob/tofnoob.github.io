@@ -107,7 +107,9 @@ North East of Ranni you'll find the teleport `Spacerift: Dark Source Sidewall`. 
 
 <ins>**Skull Shark x15**</ins>
 
-You can AFK farm these at the boar icon spot below, near the `Spacerift: Central Secluded Rock` teleporter. For a video guide then see Gateoo's guide [here](https://youtu.be/Up2-epfHWWs?list=PLexT4z6TXJCGFO9A7wQ4YvDev5Cto2JSF&t=720)
+You can AFK farm these at the boar icon spot below, near the `Spacerift: Central Secluded Rock` teleporter. There are 3 sharks near the bottom of that point.
+
+For a video guide then see Gateoo's guide [here](https://youtu.be/Up2-epfHWWs?list=PLexT4z6TXJCGFO9A7wQ4YvDev5Cto2JSF&t=720).
 
 ![](images/innars_shark_farm.png)
 
