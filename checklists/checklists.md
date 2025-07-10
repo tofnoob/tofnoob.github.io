@@ -43,7 +43,7 @@ There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF
 - [ ] Any Mecha/Kailo World Boss x10 for Augment module box VI (Gunner, All seeing eye, Queen Xeno)
 - [ ] Claire's Dream Machine x3
 - [ ] Void Abyss - claim free Void energy
-- [ ] Potent Omnium Crystal weekly exchange (Resource Dealer)
+- [ ] [Potent Omnium Crystal weekly exchange (Resource Dealer)](https://tofnoob.github.io/checklists/checklists.html#potent-omnium-crystal-weekly-exchange)
 - [ ] Mirroria M-Sec missions x3 (Security Force)
 - [ ] Artificial Island boss rewards x4
 - [ ] Artificial Island Weapon Augment boxes and materials purchase
