@@ -87,7 +87,7 @@ There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF
 
 #### Potent Omnium Crystal weekly exchange
 
-You can get 1 per week from the NPC Ranni in Innars. It may be worth doing now that we get double weekly Potent Omnium Crystals in order to upgrade your Supressor faster.
+You can get 1 per week from the NPC Ranni in Innars. It may be worth doing now that we get double weekly Potent Omnium Crystals II in order to upgrade your Supressor faster.
 
 To reach Ranni, go to the `Spacerift: Innars` teleporter on level 2 of Innars. Then follow the route in red to go down the stairs on the left and take the first right.
 
