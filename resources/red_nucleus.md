@@ -17,6 +17,7 @@ This is what you need to pull for the limited weapons, so use them wisely! You c
 - Mirroria gachapon machines
 - Claire's dream machine
 - Artificial Island mysterious vendor
+- Mirroria Cargo Dog (x2 drop, 1% chance)
 - [Bind email](#bind-email)
 
 ## Bind Email
