@@ -11,7 +11,7 @@ Commonly referred to as DC, this is the main gacha currency which is the equival
 - [ToF codes](#tof-codes)
 - [ToF competition](#tof-competition)
 - [Twitch drops](#twitch-drops)
-- [Daily login - LAST MONTH!](#daily-login)
+- ~~[Daily login - LAST MONTH!](#daily-login)~~
 - [Themed event](#themed-event)
 - [ToF discord lottery](#discord-lottery)
 - Mirroria gachapon machines
@@ -67,14 +67,17 @@ Note that I'd recommend doing this on a PC, as doing this on mobile app seems to
 
 Once you claim the Twitch reward then use the relevant link below to redeem and send it to your inbox
 
-pc/mobile: https://www.toweroffantasy-global.com/act/a20220711twitchdrops/index.html
+pc/mobile: https://tof.perfectworld.com/net/250514twitch/index.html
+~~https://www.toweroffantasy-global.com/act/a20220711twitchdrops/index.html~~
 
 playstation: https://tof.perfectworld.com/net/twitch230806/index.html
 
 ## Daily Login
-Similar to Hoyoverse games, there is actually a daily login where you get coins that can be exchanged for DC and other items.
+This no longer exists after Pefect World took over ToF.
 
-Daily login link: https://pass.levelinfinite.com/rewards?points=%2Fpoints%2F
+~~Similar to Hoyoverse games, there is actually a daily login where you get coins that can be exchanged for DC and other items.~~
+
+~~Daily login link: https://pass.levelinfinite.com/rewards?points=%2Fpoints%2F~~
 
 ## Themed Event
 This appears once in a while, usually on major releases. It will have it's own `Themed Event` tab in the special event menu and will say `Journey of friendship`. Note that the `Go` button to actually enter the page often takes a few seconds to load.
