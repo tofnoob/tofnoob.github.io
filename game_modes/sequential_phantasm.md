@@ -48,7 +48,13 @@ Use various buffs to increase your power:
   - Enhanced Blade Shot (Jing Dan merchant) -  increase ATK by 3.5% for 7 days (does not stack with the regular Blade Shot)
 
 ## General guide
-TODO
+
+1. Hyenatron with 2x Assault Armour: Blades
+2. Commander Habaka, with 1x Giant Aberrant, 1x Abnormal Abberant
+3. Abberant Franken, with 1x Giant Horn Rhino, x Harlequin Red Scorpion
+4. Aegis with 1x The Fanatic, 1x Wickeds
+5. Minotaur with 1x Horror Beast, 1x Aberrant Canine Alpha
+6. Darkness: Fulmination
 
 ## Specific levels tips
 For some levels there are special mechanics that increase the difficulty to some degree.
