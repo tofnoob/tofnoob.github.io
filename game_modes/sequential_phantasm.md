@@ -47,7 +47,7 @@ Use various buffs to increase your power:
   - Piercing Shot (Jing Dan merchant) - Regenerate 600 endurance. Increase shatter by 15% and aggro by 25% for 7 days.
   - Enhanced Blade Shot (Jing Dan merchant) -  increase ATK by 3.5% for 7 days (does not stack with the regular Blade Shot)
 
-## General guide
+## Boss guide (Boundless Realm mode)
 
 1. Hyenatron with 2x Assault Armour: Blades
 2. Commander Habaka, with 1x Giant Aberrant, 1x Abnormal Abberant
