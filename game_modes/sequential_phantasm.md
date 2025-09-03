@@ -38,14 +38,20 @@ For Altered it's a bit lower at 8 (Dec 2024).
 ## Buffs
 Use various buffs to increase your power:
 
-- Mia food buff daily (x3 that can stack)
+- Use one Mia food buff daily
 - Food item buffs with nutripaste (Kailo) or wine (Mirroria) being the best choices
 - Mentorship Store Adrenaline Serum: Sequential Phantasm (+1000 atk)
+- Upgrade your relics to 4 stars as many of them grant permanent elemental buffs
 - Space support system buffs specifically for bygone modes, or element specific
 - Domain 9 boosters weekly purchase located in Tianhe Bazaar. Buy the boosters with Dominium currency.
   - Enhancement Shot (Jing Dan merchant) - Increase the base stats of the equipped weapons and Matrices to as if they're at max stars for 7 days.
   - Piercing Shot (Jing Dan merchant) - Regenerate 600 endurance. Increase shatter by 15% and aggro by 25% for 7 days.
   - Enhanced Blade Shot (Jing Dan merchant) -  increase ATK by 3.5% for 7 days (does not stack with the regular Blade Shot)
+    
+
+## Other tips
+
+- Using Brevey gives you Miraculous Turnaround which is +15 seconds in both versions of bygone, i.e. 2:45 instead of 2:30
 
 ## Boss guide (Boundless Realm mode)
 
