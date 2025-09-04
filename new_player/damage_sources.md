@@ -18,13 +18,13 @@ There are so many ways to increase power that it's easy to lose track of them al
   - Gear advancement to 5*
   - Gear enhancement to level 70 (patch 4.6 max)
   - Gear augument (titan gear + titan stat)
-  - Basic gear 8 piece activation (bonus stats when ALL non-Vera gear reaches a set enhancement level like 10, 15, 20 etc.)
+  - Basic gear 8 piece activation (bonus stats when ALL non-Vera gear reaches a set enhancement level like 10, 15, 20 etc.) - very minor dmg increments, may not be optimal
   - Supercomputing Evolution
   - Space Support System (Cosmic system menu)
-- Lin Synesthesia weapon upgrade
+- Lin & Fiona Synesthesia weapon upgrade
   - A2 permanent 3% elemental damage increase
   - A5 permanent 4% elemental damage increase
-- Suppressor upgrading
+- Suppressor upgrading (very minor dmg increments)
 - Smart Servant
 - Sequential Phantasm - clearing content gives you items that permanently boosts your HP and ATK
 - Map exploration - this also gives you items that permanently boosts your HP and ATK
@@ -40,3 +40,9 @@ There are so many ways to increase power that it's easy to lose track of them al
 
 # Meta team compositions
 The best way to see this is to view the Rankings menu for a mode like Bygone/Sequential Phantasm and view the profile of the top ranked players. Use the `magnifying glass` icon, then `View info` to see this.
+
+There are still some youtubers remaining that provide team showcases with rotations like:
+- [Gateoo](https://www.youtube.com/@gateoo)
+- [Elendil](https://www.youtube.com/@elendeel)
+- [Muchuzak](https://www.youtube.com/@Michuzak)
+- [Snow Ais](https://www.youtube.com/@SnowAisGaming)
