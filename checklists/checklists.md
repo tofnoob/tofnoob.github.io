@@ -56,6 +56,7 @@ There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF
 - [ ] Network Cipher Exchange - hacking game (Indoor zone - Observation Deck Subway Station)
 - [ ] Network Norn quests
 - [ ] Network Norn minigames
+- [ ] Network Norn trader (guide)[https://www.youtube.com/watch?v=imcrcbuXzJc]
 - [ ] Kailo Anchor Supply Shop
 
 ## Monthly
