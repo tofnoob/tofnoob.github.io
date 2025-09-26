@@ -10,6 +10,8 @@ There are many daily, weekly, monthly, and one-off tasks/activities to do in ToF
 
 ## Daily
 
+video guide (https://www.youtube.com/watch?v=timhxMkFRCk)[https://www.youtube.com/watch?v=timhxMkFRCk]
+
 - [ ] Daily Bounty
 - [ ] Mia's Kitchen
 - [ ] Joint Operation
