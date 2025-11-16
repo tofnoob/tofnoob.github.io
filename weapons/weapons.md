@@ -36,7 +36,7 @@ When pulling limited matrices, there is a **Restricted** option on the banner. C
 # Upgrade materials
 Most common places to get the upgrade materials, which can run out fast if upgrading many weapons!
 
-- Events
+- Events - get event currency and buy from the limited event shop
 - Dimensional Trials (quick battle), but it means less vitality for gear & awakening materials
 - Artificial Island - buy weekly from the Exchange Shop (blue van) in the base via Energy Materials tab
 - Tianhe Bazaar - Master Tang using Dominium currency
