@@ -32,3 +32,12 @@ Matrices massively improve the power of your weapons. There are free matrices an
 You can get multiple copies of matrices up to 3* per piece. This means getting 16 copies in total per weapon, which is usually far most costly than 7 copies to max a weapon. Especially when you need some luck to avoid too many duplicates of one set.
 
 When pulling limited matrices, there is a **Restricted** option on the banner. Click on it and you can set one matrice type to block, e.g. brain. If you already have 4 copies of the brain piece, then block it with this feature to avoid potentially pulling another brain.
+
+# Upgrade materials
+Most common places to get the upgrade materials, which can run out fast if upgrading many weapons!
+
+- Events
+- Dimensional Trials (quick battle), but it means less vitality for gear & awakening materials
+- Artificial Island - buy weekly from the Exchange Shop (blue van) in the base via Energy Materials tab
+- Tianhe Bazaar - Master Tang using Dominium currency
+- Joy Square - buy weekly from to Joy Square Attendant npc via Copper Bloom currency. Use the menu options Casual -> Fight the Landlord to teleport here quickly, and exchange Mira for Copper Bloom.
