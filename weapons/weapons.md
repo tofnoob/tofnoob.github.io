@@ -40,4 +40,4 @@ Most common places to get the upgrade materials, which can run out fast if upgra
 - Dimensional Trials (quick battle), but it means less vitality for gear & awakening materials
 - Artificial Island - buy weekly from the Exchange Shop (blue van) in the base via Energy Materials tab
 - Tianhe Bazaar - Master Tang using Dominium currency
-- Joy Square - buy weekly from to Joy Square Attendant npc via Copper Bloom currency. Use the menu options Casual -> Fight the Landlord to teleport here quickly, and exchange Mira for Copper Bloom.
+- Joy Square - buy weekly from the Currency Exchange - Joy Square Attendant npc via Copper Bloom currency. Use the menu options Casual -> Fight the Landlord to teleport here quickly, and exchange Mira for Copper Bloom.
