@@ -41,3 +41,4 @@ Most common places to get the upgrade materials, which can run out fast if upgra
 - Artificial Island - buy weekly from the Exchange Shop (blue van) in the base via Energy Materials tab
 - Tianhe Bazaar - Master Tang using Dominium currency
 - Joy Square - buy weekly from the Currency Exchange - Joy Square Attendant npc via Copper Bloom currency. Use the menu options Casual -> Fight the Landlord to teleport here quickly, and exchange Mira for Copper Bloom.
+- Rewards Day4 sign-in
