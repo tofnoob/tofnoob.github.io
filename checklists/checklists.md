@@ -16,6 +16,7 @@ video guide (https://www.youtube.com/watch?v=timhxMkFRCk)[https://www.youtube.co
 - [ ] Mia's Kitchen
 - [ ] Joint Operation
 - [ ] Sign-in reward
+- [ ] Crew donation (100x merit)
 - [ ] Artificial Island vendor check
 - [ ] Domain 9 trading/price check (Tianha Bazaar)
 - [ ] Domain 9 elixir pills price check/purchase (Tianha Bazaar)
