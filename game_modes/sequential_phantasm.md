@@ -87,3 +87,8 @@ Boss name:
 Darkness: Flywing
 
 Annoying since there's 2 bosses to fight and fly around the whole arena. Target any one of them and learn their patterns as they move to the edge of the arena then back to the middle. Stay near the centre when possible to fight any one of them to avoid moving around too much.
+
+## Level 27
+Boss name: Ground controller
+
+The boss has 5x bars of health instead of 3x. Hit the boss from within the orange box to temporarily weaken it.
